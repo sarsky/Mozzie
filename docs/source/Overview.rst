@@ -6,8 +6,8 @@ A UAV Challenge READY Quadplane based on the Mini Talon for under $1000USD.
 
 This is a complete build instruction to assemble a "Mozzie" quadplane identical to what was used by PerthUAV in the 2016 Medical Express UAV Challenge.
 
-.. image:: _images/Hopper.jpg
-    :target:  _images/Hopper.jpg
+.. image:: images/Hopper.jpg
+    :scale: 100%
 
 .. tip::
 

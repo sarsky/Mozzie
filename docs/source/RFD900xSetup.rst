@@ -1,8 +1,8 @@
 RFD900x Setup
 ==============
 
-.. image:: images/RFD900x/RFD900x.jpg
-
+.. todo::
+   image:: /images/RFD900x/RFD900x.jpg
 
 .. Warning::
   These modems are high-power RF devices and it is recommended to power these devices from a separate power supply and not directly from the Flight Controller.
@@ -13,13 +13,13 @@ RFD900x Setup
 Connecting the Radio to the Pixhawk
 ......................................
 
-.. image:: images/RFD900x/RFD900xWiring
-
-.. image:: images/RFD900x/RFD_Pins.jpg
-
+.. todo::
+   image:: /images/RFD900x/RFD900xWiring
+   
+   image:: /images/RFD900x/RFD_Pins.jpg
+   
 Connecting the Radio to Computer
 ......................................
-
 
 
 Radio Configuration using Mission Planner

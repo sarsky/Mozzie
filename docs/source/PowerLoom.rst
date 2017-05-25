@@ -5,5 +5,5 @@ Solder wiring loom
 Solder ESC cables etc to length for quad and forward motor
 Solder wires to pi zero IO for telemetry, led and pi relay
 
-.. image:: _images/LoomV1.jpg
-    :target:  _images/LoomV1.jpg
+.. image:: images/LoomV1.jpg
+    :scale: 100%
