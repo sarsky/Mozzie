@@ -22,6 +22,7 @@ Specifications
 | Compatibility: FrSky X-series Module & X9D & X9DP & X9E & X12S in D16 mode
 | (XSR does  not work with D-series Module)
 |
+
 **Features:**
 
   •	Smart Port enabled, realizing two-way full duplex transmission.

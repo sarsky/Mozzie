@@ -18,12 +18,12 @@ Cut hole in foam lid for Borroca Tube!
   - The forward motor does not have ESC prop braking activated. Landing on hard surfaces might cause a spinning forward motor to strike the ground on landing which can damage the prop. (the aeronaut prop has fragile tips, which doesn't help)
   - Use forward assist and wind feathering if operating as a quad in high winds.
 
-  Tuning
-  ------
+Tuning
+------
 
   Add most important tuning items and values in table.
 
-  Comms Setup
-  -----------
+Comms Setup
+-----------
 
-  Add Comms setup info like IP and Channels etc
+ Add Comms setup info like IP and Channels etc

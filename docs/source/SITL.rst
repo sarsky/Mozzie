@@ -3,8 +3,8 @@ Simulation with SITL
 
 SITL allows you to plan flight missions and simulate test aircraft parameters without risking
 your actual aircraft. To set it up you will need a SSH client like:
-  * link mRemoteNG: https://mremoteng.org/download
-  * link Putty: http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+* link mRemoteNG: https://mremoteng.org/download
+* link Putty: http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 Step 1 - Setup SSH Client
 ...........................
@@ -98,7 +98,7 @@ If required create and upload a Geofence to the Flight Controller as described h
   For flights with a real aircraft a geofence is a good way to protect property and persons, as well as making sure you can recover the aircraft if something goes wrong.
   Trying out the geofence in SITL will give you the confidence to use it in real missions.
 
-Alternatively you can load one of the preset missions for the same location you chose previously using the following command and the relevant mission *.txt file. Make sure there is a txt file mission available with that name.
+Alternatively you can load one of the preset missions for the same location you chose previously using the following command and the relevant mission \*.txt file. Make sure there is a txt file mission available with that name.
 
 For Example::
 
@@ -118,7 +118,7 @@ To start flying the mission you have uploaded to your GCS (or preset mission you
 
     mode auto
 
-Common Mavproxy commands you can use in flight via the command line::
+Common Mavproxy commands you can use in flight via the command line:
 
 
 

@@ -31,16 +31,16 @@ Pre-Flight
 =================== ===================== ================== =========================
 **PXH LED Codes**   **Fault**             **Cause**          **Remedy**
 =================== ===================== ================== =========================
-Green LED	          PXH Booted - GPS Lock Ready to ARM
-Blue LED	          NO GPS Lock	          Bad GPS Health	   GPS Satellite' Visible?
-Flashing yellow LED	Failsafe triggered	  Restart PXH	       Check failsafe to trigger
+Green LED	    PXH Booted - GPS Lock Ready to ARM
+Blue LED	    NO GPS Lock	          Bad GPS Health     GPS Satellite' Visible?
+Flashing yellow LED Failsafe triggered    Restart PXH	     Check failsafe to trigger
 =================== ===================== ================== =========================
 
 ============== ===================== ========================= ==========================
 **GPS LED**    **Fault**             **Cause**                 **Remedy**
 ============== ===================== ========================= ==========================
-GPS Power	     No Red LED	           No Power - No Connection	 Check power and wiring
-GPS Signal	   No Flashing Blue LED	 No Lock - NO GPS Signal	 GPS Satellites Visible?
+GPS Power      No Red LED            No Power - No Connection  Check power and wiring
+GPS Signal     No Flashing Blue LED  No Lock - NO GPS Signal   GPS Satellites Visible?
 ============== ===================== ========================= ==========================
 
 Flight Modes

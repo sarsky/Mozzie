@@ -14,15 +14,12 @@ Welcome to Mozzie's documentation!
   Parts
   GettingStarted
   Airframe
-  Avionics
   PixhawkSetup
   RXSetup
-  BLARG
   RFD900xSetup
   PiSetup
   AvionicsEnclosureAssembly
   Accessories
-  Propulsion
   PowerLoom
   ESCSetup
   ForwardPropulsion

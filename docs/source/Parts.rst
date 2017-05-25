@@ -21,37 +21,37 @@ Purchase List
 ====================  =================================== ========== ======== ======================================
 **System**            **Item**                            **Weight**  **PCS** **Link**
 ====================  =================================== ========== ======== ======================================
-**Airframe**          Mini Talon                           562g          1     `Banggood <http://www.banggood.com/X-uav-Mini-Talon-EPO-1300mm-Wingspan-V-tail-FPV-Plane-Aircraft-Kit-p-983331.html?rmmds=search>`_
-|                     Carbon Bar for QP Arms (1m)           27g ea.      1     `Carbon Fibre Aus <http://www.carbonfiber.com.au/prod80.htm>`_
-**Propulsion**        QP Motor Cobra 2207 2300              31g ea.      4     `Banggood <http://www.banggood.com/Cobra-Champion-Series-2207-CP2207-2300KV-2450KV3-5S-Brushless-Motor-For-250-260-280-FPV-Racing-Frame-p-1108143.html?rmmds=search>`_
-|                     QP ESC ZTW Spider Pro HV 30A F390      6g          4     `Bolt RC <https://boltrc.com.au/index.php?id_product=127&controller=product>`_
-|                     Fwd Motor Cobra C-2814/16 Kv 1050    107g          1     `Innov8tive <http://innov8tivedesigns.com/parts/brushless-motors/cobra-c-2814-16-brushless-motor-kv-1050>`_
+**Airframe**          Mini Talon                           562g          1     `Banggood <http://www.banggood.com/X-uav-Mini-Talon-EPO-1300mm-Wingspan-V-tail-FPV-Plane-Aircraft-Kit-p-983331.html?rmmds=search>`__
+|                     Carbon Bar for QP Arms (1m)           27g ea.      1     `Carbon Fibre Aus <http://www.carbonfiber.com.au/prod80.htm>`__
+**Propulsion**        QP Motor Cobra 2207 2300              31g ea.      4     `Banggood <http://www.banggood.com/Cobra-Champion-Series-2207-CP2207-2300KV-2450KV3-5S-Brushless-Motor-For-250-260-280-FPV-Racing-Frame-p-1108143.html?rmmds=search>`__
+|                     QP ESC ZTW Spider Pro HV 30A F390      6g          4     `Bolt RC <https://boltrc.com.au/index.php?id_product=127&controller=product>`__
+|                     Fwd Motor Cobra C-2814/16 Kv 1050    107g          1     `Innov8tive <http://innov8tivedesigns.com/parts/brushless-motors/cobra-c-2814-16-brushless-motor-kv-1050>`__
 |                     ZTW 40A ESC                           50g          1     link
-|                     Prop Aernaut 11x8                                  1     `PerthRC <http://www.perthrc.com.au/folding-prop-11x8.html>`_
-|                     Spinner Bar Aeronaut                               1     `PerthRC <http://www.perthrc.com.au/spinner-bar-42mm-0-degrees.html>`_
-**Electrics**         Battery MultiStar LiHV 4S 10Ah       794g          1     `HobbyKing <https://hobbyking.com/en_us/multistar-lihv-high-capacity-4s-10000mah-multi-rotor-lipo-pack.html>`_
-|                     UBEC ZTW 6A                           12g          2     `Banggood <http://www.banggood.com/ZTW-10A-BEC-UBEC-Universal-Battery-Eliminator-Circuit-For-RC-Models-p-989402.html?rmmds=search>`_
-|                     XT60 Connectors (5 pairs                           1     `Banggood <http://www.banggood.com/5X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-916559.html?rmmds=search>`_
-|                     XT30 Connectors (10 Pairs)                         1     `Banggood <http://www.banggood.com/10X-Amass-XT30-UPB-2mm-Plug-Male-Female-Bullet-Connectors-Plugs-For-PCB-p-1063274.html?rmmds=search>`_
+|                     Prop Aernaut 11x8                                  1     `PerthRC <http://www.perthrc.com.au/folding-prop-11x8.html>`__
+|                     Spinner Bar Aeronaut                               1     `PerthRC <http://www.perthrc.com.au/spinner-bar-42mm-0-degrees.html>`__
+**Electrics**         Battery MultiStar LiHV 4S 10Ah       794g          1     `HobbyKing <https://hobbyking.com/en_us/multistar-lihv-high-capacity-4s-10000mah-multi-rotor-lipo-pack.html>`__
+|                     UBEC ZTW 6A                           12g          2     `Banggood <http://www.banggood.com/ZTW-10A-BEC-UBEC-Universal-Battery-Eliminator-Circuit-For-RC-Models-p-989402.html?rmmds=search>`__
+|                     XT60 Connectors (5 pairs                           1     `Banggood <http://www.banggood.com/5X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-916559.html?rmmds=search>`__
+|                     XT30 Connectors (10 Pairs)                         1     `Banggood <http://www.banggood.com/10X-Amass-XT30-UPB-2mm-Plug-Male-Female-Bullet-Connectors-Plugs-For-PCB-p-1063274.html?rmmds=search>`__
 |                     Connectors JST/RFD etc
 |                     Cable
 |                     Cable
-**Avionics**          Pixhawk                                39g         1     `Banggood <http://www.banggood.com/Pixhawk-PX4-2_4_8-Flight-Controller-32-Bit-ARM-PX4FMU-PX4IO-Combo-for-Multicopters-p-1040416.html?rmmds=search>`_
-|                     GPS Neo-M8N                            18g         1     `Banggood <http://www.banggood.com/Ublox-NEO-M8N-Flight-Controller-GPS-with-Protective-Shell-for-PIX-PX4-Pixhawk-p-1005394.html?rmmds=search>`_
-|                     Digital Airspeed with Pitot             3g         1     `HobbyKing <https://hobbyking.com/en_us/hkpilot-32-digital-air-speed-sensor-and-pitot-tube-set.html>`_
-|                     I2C Hub                                 4g         1     `Banggood <http://www.banggood.com/CRIUS-Pixhawk-I2C-Splitter-Expand-Module-For-Pix-APM-Flight-Controller-p-984147.html?rmmds=search>`_
-|                     Power Module and Sensor                22g         1     `HobbyKing <https://hobbyking.com/en_us/hkpilot-mega-10s-power-module-with-xt60-connectors.html>`_
+**Avionics**          Pixhawk                                39g         1     `Banggood <http://www.banggood.com/Pixhawk-PX4-2_4_8-Flight-Controller-32-Bit-ARM-PX4FMU-PX4IO-Combo-for-Multicopters-p-1040416.html?rmmds=search>`__
+|                     GPS Neo-M8N                            18g         1     `Banggood <http://www.banggood.com/Ublox-NEO-M8N-Flight-Controller-GPS-with-Protective-Shell-for-PIX-PX4-Pixhawk-p-1005394.html?rmmds=search>`__
+|                     Digital Airspeed with Pitot             3g         1     `HobbyKing <https://hobbyking.com/en_us/hkpilot-32-digital-air-speed-sensor-and-pitot-tube-set.html>`__
+|                     I2C Hub                                 4g         1     `Banggood <http://www.banggood.com/CRIUS-Pixhawk-I2C-Splitter-Expand-Module-For-Pix-APM-Flight-Controller-p-984147.html?rmmds=search>`__
+|                     Power Module and Sensor                22g         1     `HobbyKing <https://hobbyking.com/en_us/hkpilot-mega-10s-power-module-with-xt60-connectors.html>`__
 |                     Servo ext. cables Long
 |                     Servo ext. cables Short
-**Comms & RC**        RFD900x (1 Air & 1 Ground req)         12g         1    `RFD Aus <http://store.rfdesign.com.au/rfd-900x-modem/>`_
-|                     Foil Antenna 300mm (or 500mm)           7g         2    `RFD Aus <http://store.rfdesign.com.au/rfdflex1-900mhz-flexible-pcb-antenna-300mm-rpsma/>`_
-|                     FrSKy XSR                               4g         1    `Banggood <http://www.banggood.com/FrSky-XSR-2_4GHz-16CH-ACCST-Receiver-S-Bus-CPPM-Output-Support-X9D-X9E-X9DP-X12S-X-Series-p-1031481.html?rmmds=search>`_
-**Servos**            Corona DS-929MG                        12g ea.     5    `HobbyKing <https://hobbyking.com/en_us/corona-digital-servo-2-2kg-0-11sec-12-5g.html>`_
-**Companion Pi**      Raspberry Pi Zero W                    10g         1    `PiHut <https://thepihut.com/products/raspberry-pi-zero-w>`_
-|                     Pi Camera v2                            3g         1    `PiHut <https://thepihut.com/collections/raspberry-pi-camera/products/raspberry-pi-camera-module>`_
-|                     Pi Camera to Zero Cable                 1g         1    `PiHut <https://thepihut.com/collections/raspberry-pi-camera/products/raspberry-pi-zero-camera-adapter>`_
-|                     Powered USB Zero4U Hub                 14g         1    `PiHut <https://thepihut.com/products/adafruit-zero4u-4-port-usb-hub-for-raspberry-pi-zero-v1-3>`_
-|                     Pi Reboot Relay (pololu RC small)       1g         1    `LittleBird Aus <https://littlebirdelectronics.com.au/products/pololu-rc-switch-with-small-low-side-mosfet>`_
+**Comms & RC**        RFD900x (1 Air & 1 Ground req)         12g         1    `RFD Aus <http://store.rfdesign.com.au/rfd-900x-modem/>`__
+|                     Foil Antenna 300mm (or 500mm)           7g         2    `RFD Aus <http://store.rfdesign.com.au/rfdflex1-900mhz-flexible-pcb-antenna-300mm-rpsma/>`__
+|                     FrSKy XSR                               4g         1    `Banggood <http://www.banggood.com/FrSky-XSR-2_4GHz-16CH-ACCST-Receiver-S-Bus-CPPM-Output-Support-X9D-X9E-X9DP-X12S-X-Series-p-1031481.html?rmmds=search>`__
+**Servos**            Corona DS-929MG                        12g ea.     5    `HobbyKing <https://hobbyking.com/en_us/corona-digital-servo-2-2kg-0-11sec-12-5g.html>`__
+**Companion Pi**      Raspberry Pi Zero W                    10g         1    `PiHut <https://thepihut.com/products/raspberry-pi-zero-w>`__
+|                     Pi Camera v2                            3g         1    `PiHut <https://thepihut.com/collections/raspberry-pi-camera/products/raspberry-pi-camera-module>`__
+|                     Pi Camera to Zero Cable                 1g         1    `PiHut <https://thepihut.com/collections/raspberry-pi-camera/products/raspberry-pi-zero-camera-adapter>`__
+|                     Powered USB Zero4U Hub                 14g         1    `PiHut <https://thepihut.com/products/adafruit-zero4u-4-port-usb-hub-for-raspberry-pi-zero-v1-3>`__
+|                     Pi Reboot Relay (pololu RC small)       1g         1    `LittleBird Aus <https://littlebirdelectronics.com.au/products/pololu-rc-switch-with-small-low-side-mosfet>`__
 |                     SD Card 8GB (or Larger)                 1g         1
 ====================  =================================== ========== ======== ======================================
 
@@ -60,7 +60,7 @@ Purchase List
    Notes on purchasing:
     * Talon ships from BG in single units via EMS.
     * Batteries have limited shipping methods due to safety so try to shop locally for these if you can.
-|
+
 
 
 

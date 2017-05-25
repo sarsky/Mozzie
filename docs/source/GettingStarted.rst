@@ -19,19 +19,16 @@ Hand tool required:
  1) Hobby knife with replacement blades
  2) A good pair of sharp scissors
  3) A Philips and hex screw driver with the following sizes
- 4)
 
 Consumables Required:
  1) UHU Por (this glue is ideal for foam because it stays flexible and has a strong bond)
  2) A good quality clear packaging tape and a mesh reinforced tape
  3) Sandpaper
- 4)
 
 Recomended
  1) Soldering iron holder
  2) Hot Air Gun
  3) Cutting mat
- 3)
 
  **Safety**
 
