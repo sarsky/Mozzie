@@ -15,11 +15,13 @@ Connecting the Radio to the Pixhawk
 
 .. todo::
    image:: /images/RFD900x/RFD900xWiring
-   
+
    image:: /images/RFD900x/RFD_Pins.jpg
-   
+
 Connecting the Radio to Computer
 ......................................
+Connect RX to RFD900x using x cable.
+Power from USB? Should have own power because USB ain't enough.
 
 
 Radio Configuration using Mission Planner
