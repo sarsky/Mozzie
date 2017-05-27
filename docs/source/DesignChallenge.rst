@@ -1,9 +1,8 @@
-===================================================================================
 Designing for the UAV Challenge
-===================================================================================
+-------------------------------
 
 The anatomy of a Mozzie
----------------------------
+.......................
 
 As a part of the design process one of the first steps we took was to identify the core goals of the project before we started.
 We found that how teams set goals also ultimately defined how successful they were in the event.

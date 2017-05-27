@@ -1,6 +1,6 @@
 Avionics Enclosure Assembly
 ===============================
-
+ 
 
 3D Parts Required:
  - Avionics Enclosure Pi (bottom)
@@ -42,7 +42,7 @@ Assemble the Avionics Enclosure (AE for short) Pi, RFD/Air and Center plate as f
 
 .. todo::
    image:: /images/AE/MountBallsCenter.jpg
-   
+
    Make image!
 
 Insert the rubber isolation balls into the Avionics Center Plate as shown.
@@ -111,7 +111,7 @@ Route the XSR servo connector out through the opening under the XSR.
 
 .. todo::
    image:: /images/AE/AirAECompGPS.jpg
-  
+
    Image 1011
 
 Next insert the connectors of the GPS module on an angle through the top right opening of the Air AE.
@@ -119,7 +119,7 @@ The 4pin  Connector plugs into the I2C hub and the 6 pin connector is routed out
 
 .. todo::
    image:: /images/AE/AirAECompRFD.jpg
-  
+
    Image 1012
 
 The RFD900 module cable can the be routed through the Airspeed sensor side opening, and can be placed with the antenna plugs through the enclosure and clipped into place.
@@ -136,14 +136,14 @@ Step 4 - Final Assembly of the Enclosure
 
 .. todo::
    image:: /images/AE/PiAEToAirAECable.jpg
-  
+
    Make new picture!!
 
 Place the two DF13 cables through the opening of the Air AE next to the Airspeed Sensor back outside of the enclosure.
 
 .. todo::
    image:: /images/AE/PiAEToAirAE.jpg
-  
+
    image 1014
 
 Carefully place the Air AE over the Center Plate making sure that the cables are clear of the contact areas and are long enough to reach their respective PXH connectors.
@@ -156,7 +156,7 @@ It should look something like this:
 
 .. todo::
    image:: /images/AE/AEAs.jpg
-  
+
    make new image
 
 
@@ -165,7 +165,7 @@ Step 5 - Attaching and Connecting the Pixhawk
 
 .. todo::
    image:: /images/AE/AEPixhawk.jpg
-   
+
    image 1016
 
 The Pixhawk can now be mounted using double sided foam tape, on the top of the Avionics Enclosure with Servo pins on the same side as the RFD antennas.
@@ -175,7 +175,7 @@ The Pixhawk can now be mounted using double sided foam tape, on the top of the A
 
 .. todo::
    image:: /images/AE/AEPixhawkCables.jpg
- 
+
    image 1021
 
 The cables can now be connected to the Pixhawk as follows:
@@ -193,7 +193,7 @@ And in the middle:
 
 .. todo::
    image:: /images/AE/AEPixhawkCables2.jpg
-    
+
 And then finally insert:
  1) the XSR Servo connector into RC IN
  2) the Camera Servo Connector into RC 11 (Aux 3)

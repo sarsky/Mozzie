@@ -2,7 +2,7 @@ Simulation with SITL
 =======================
 
 SITL allows you to plan flight missions and simulate test aircraft parameters without risking
-your actual aircraft. To set it up you will need a SSH client like:
+your actual aircraft. To set it up you will need a SSH client like: 
 * link mRemoteNG: https://mremoteng.org/download
 * link Putty: http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 

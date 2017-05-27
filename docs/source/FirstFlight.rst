@@ -20,7 +20,7 @@ QHover to FBWA
 
 Flight Recovery Modes
 ......................................
-
+ 
 aka quadchute
 Transitioning to qloiter from a forward flight mode is possible but not recommended.
 Transition to qhover first then 5-10seconds later to qloiter, to avoid the aircraft using the quadmotors frantically trying to position hold whilst still moving forwards.

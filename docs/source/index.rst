@@ -1,40 +1,34 @@
 .. Mozzie documentation master file, created by
    sphinx-quickstart on Tue Apr 18 12:15:44 2017.
    You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Mozzie's documentation!
-==================================
+   contain the root `toctree` directive.   Mozzie Overview<self>
+ 
+=================
+The Mozzie
+=================
 
 .. toctree::
-  :maxdepth: 5
-  :caption: Contents:
+   :caption: The Mozzie
+   :hidden:
 
-  Overview
-  Parts
-  GettingStarted
-  Airframe
-  PixhawkSetup
-  RXSetup
-  RFD900xSetup
-  PiSetup
-  AvionicsEnclosureAssembly
-  Accessories
-  PowerLoom
-  ESCSetup
-  ForwardPropulsion
-  QuadArms
-  FullSystemsCheck
-  PreFlight
-  FirstFlight
-  DesignChallenge
-  SITL
-  SystemsSetup
+   Overview
+   DesignChallenge
 
+.. toctree::
+   :caption: Building your own
+   :hidden:
 
-Indices and tables
-==================
+   GettingStarted
+   Airframe
+   Propulsion
+   Accessories
+   Avionics
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :caption: Flying the Mozzie
+   :hidden:
+
+   FullSystemsCheck
+   PreFlight
+   FirstFlight
+   Operations

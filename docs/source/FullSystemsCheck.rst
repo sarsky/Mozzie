@@ -1,4 +1,4 @@
-Full Systems Check
+Systems Check
 ===================
 
 Finish Build
@@ -17,13 +17,20 @@ Cut hole in foam lid for Borroca Tube!
   - Transitioning to qloiter from a forward flight mode is possible but not recommended. Transition to qhover first then 5-10 seconds later to qloiter, to avoid the aircraft using the quadmotors frantically trying to position hold wilst still moving forwards. Chk the quad arms are secured/rigid on the fuselage prior to every flight. The quad arms can become loose after a rough landing.
   - The forward motor does not have ESC prop braking activated. Landing on hard surfaces might cause a spinning forward motor to strike the ground on landing which can damage the prop. (the aeronaut prop has fragile tips, which doesn't help)
   - Use forward assist and wind feathering if operating as a quad in high winds.
+ 
 
-Tuning
-------
+Control Surfaces Test
+.........................
 
-  Add most important tuning items and values in table.
+ Stabilization Test, Control surfaces direction, RC control, throws,
 
-Comms Setup
------------
 
- Add Comms setup info like IP and Channels etc
+Quad Motor Test
+.................
+
+ .. Warning::
+   Before doing any of the following tests remove all the propellers from the aircraft.
+   Failure to do so can lead to serious injury that can require hospitalization. All propellers are dangerous, sharp and can easily cut to the bone if not handled carefully. Use Caution. Remove Props!
+
+
+ Using MP test. Stabilization test whilst holding etc

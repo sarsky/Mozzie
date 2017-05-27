@@ -1,6 +1,6 @@
 Forward Propulsion
 =====================
-
+ 
 Place forward motor ESC into tail of fuselage and guide the three motor cables out of the rear 3D printed motor mount center.
 Connect the three motor cables to the ESC making sure they are not loose and can come apart.
 
@@ -23,7 +23,7 @@ Orientate the ESC and attach to fuselage using some Velcro, cable clips or ESC A
 
 .. todo::
    image:: /images/MountLoom.jpg
-  
+
 Install the Mozzie Power Loom into the fuselage on the right hand side making sure the front ESC XT30 plugs are facing forwards (that's the two that are directly connected to the middle of the loom and fork at the XT30's)
 Use self adhesive cable clips, cable ties and cable wrap to attach the cables in the correct position directly against side of the fuselage, in such a way that the cables are not taught, caught or damaged.
 

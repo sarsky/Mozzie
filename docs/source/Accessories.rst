@@ -1,12 +1,12 @@
-Accessories
-===============
+Sensors and Accessories
+=======================
 
 Pitot Tube and Airspeed Sensor
 ..................................
 
 GPS
 ......
-
+ 
 Copper tape underneath the GPS on the wing.
 
 Antennas

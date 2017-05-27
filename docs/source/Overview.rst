@@ -1,11 +1,10 @@
-===================================================================================
-Building the Mozzie
-===================================================================================
+Overview
+=================
 
 A UAV Challenge READY Quadplane based on the Mini Talon for under $1000USD.
 
 This is a complete build instruction to assemble a "Mozzie" quadplane identical to what was used by PerthUAV in the 2016 Medical Express UAV Challenge.
-
+ 
 .. image:: images/Hopper.jpg
     :scale: 100%
 
@@ -14,13 +13,14 @@ This is a complete build instruction to assemble a "Mozzie" quadplane identical 
    This wiki page is a work in progress and will be completed as the
    information becomes available and the project develops.
 
-Overview
-=========
-
 The complete instructions and files required to build a Quadplane capable of attempting the UAV Medical Express Challenge.....
 ADD Some challenge details....
 
-Specification
+Intro to Quadplanes
+-------------------
+asdfasdf
+
+Specifications
 ==============
 
 =============== ========== =======================================================
@@ -61,6 +61,3 @@ Camera           PiCam 8MP   With geotagging Mavproxy module and servo tilt
 Redundant Power  3x          With separate Failsafe power
 Flight Modes                 Auto, RTL, Windvaning Loiter
 ================ =========== =======================================================
-
-|
-|
