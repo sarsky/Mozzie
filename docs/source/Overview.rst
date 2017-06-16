@@ -48,8 +48,8 @@ We sincerely hope that the information provided here will assist teams in develo
 More Information on the 2018 Medical Express UAV Challenge can be found here:
 https://uavchallenge.org/medical-express/
 
-Intro to Quadplanes
--------------------
+Introduction to Quadplanes
+---------------------------
 The Mozzie was specifically developed as a quadplane and to achieve the challenge range and speed requirements.
 It does this by leveraging two completely separate propulsion, lift and control systems.
 

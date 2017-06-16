@@ -17,7 +17,7 @@ Purchase List
 ^^^^^^^^^^^^^
 
 .. note::
-  If possible, please use the affiliate product links provided to purchase the components, as that will help support the further development of the Mozzie platform at no cost whatsoever to you.
+  If possible, please use the affiliate product links provided for Banggood and Hobbyking to purchase the components, as that will help support the further development of the Mozzie platform at no cost whatsoever to you.
 
 
 ====================  =================================== ========== ======== ======================================
@@ -29,7 +29,7 @@ Purchase List
 |                     QP ESC ZTW Spider Pro HV 30A F390      6g          4     `Bolt RC <https://boltrc.com.au/index.php?id_product=127&controller=product>`__
 |                     Fwd Motor Cobra C-2814/16 Kv 1050    107g          1     `Innov8tive <http://innov8tivedesigns.com/parts/brushless-motors/cobra-c-2814-16-brushless-motor-kv-1050>`__
 |                     ZTW 40A ESC                           50g          1     link
-|                     Prop Aernaut 11x8                                  1     `PerthRC <http://www.perthrc.com.au/folding-prop-11x8.html>`__
+|                     Prop Aeronaut 10x8                                 1     `PerthRC <http://www.perthrc.com.au/folding-prop-10x8.html>`__
 |                     Spinner Bar Aeronaut                               1     `PerthRC <http://www.perthrc.com.au/spinner-bar-42mm-0-degrees.html>`__
 **Electrics**         Battery MultiStar LiHV 4S 10Ah       794g          1     `HobbyKing <https://hobbyking.com/en_us/multistar-lihv-high-capacity-4s-10000mah-multi-rotor-lipo-pack.html>`__
 |                     UBEC ZTW 6A                           12g          2     `Banggood <http://www.banggood.com/ZTW-10A-BEC-UBEC-Universal-Battery-Eliminator-Circuit-For-RC-Models-p-989402.html?rmmds=search>`__
@@ -142,7 +142,7 @@ Quad Arm Parts
 
 Workspace
 ---------
- 
+
 For the construction of the Mozzie you will need a large well lit table about 1.5m wide and a power plug for soldering iron, hot glue and the optional heat gun.
 
 Tools Required
