@@ -5,7 +5,7 @@ Complete Parts List
 -------------------
 
 
-The first step to building the Mozzie is of course to organize and purchase all the parts.
+The first step to building the Mozzie is to organize and purchase all the parts.
 
 
 .. Tip::
@@ -71,8 +71,8 @@ Purchase List
 
 3D Printed parts can be printed using a selection of materials, we made our aircraft parts from PLA as this was the easiest and was rigid enough.
 Using ABS, especially on the larger Avionics Enclosure parts might be difficult. Some parts are printed on the side as noted.
-Some printers might not print at the correct size to fit the individual electronic components etc, if so, try using the scale feature on the slicer to increase or decrease the size as required.
-Note that all the prints that connect to each other will require to use the same scale so they fit together properly once assembled.
+Not every 3D printer is configured the same so some might not print at the correct size to fit the individual electronic components etc, if so, try using the scale feature on the slicer to increase or decrease the size as required.
+Note that all the prints that connect to each other will require the same scale so they fit together properly once assembled.
 
 .. Tip::
   When 3D printing ABS and some other filaments, it is good practice to do so in a well ventilated area and not inhale the fumes directly as they are toxic.
@@ -80,7 +80,6 @@ Note that all the prints that connect to each other will require to use the same
 
 3D Printed Parts List
 ^^^^^^^^^^^^^^^^^^^^^
-
 
 Please either select the individual STL 3D print files individually from the list
 below or choose to download all the files in a single zip file with this link:
