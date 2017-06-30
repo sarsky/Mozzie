@@ -25,6 +25,7 @@ Purchase List
 ====================  =================================== ========== ======== ======================================
 **Airframe**          Mini Talon                           562g          1     `Banggood <http://www.banggood.com/X-uav-Mini-Talon-EPO-1300mm-Wingspan-V-tail-FPV-Plane-Aircraft-Kit-p-983331.html?rmmds=search>`__
 |                     Carbon Bar for QP Arms (1m)           27g ea.      1     `Carbon Fibre Aus <http://www.carbonfiber.com.au/prod80.htm>`__
+|                     M4 Screws                                          6      1x20mm, 1x28mm, 2x 25mm, 2x 40mm
 **Propulsion**        QP Motor Cobra 2207 2300              31g ea.      4     `Banggood <http://www.banggood.com/Cobra-Champion-Series-2207-CP2207-2300KV-2450KV3-5S-Brushless-Motor-For-250-260-280-FPV-Racing-Frame-p-1108143.html?rmmds=search>`__
 |                     QP ESC ZTW Spider Pro HV 30A F390      6g          4     `Bolt RC <https://boltrc.com.au/index.php?id_product=127&controller=product>`__
 |                     Fwd Motor Cobra C-2814/16 Kv 1050    107g          1     `Innov8tive <http://innov8tivedesigns.com/parts/brushless-motors/cobra-c-2814-16-brushless-motor-kv-1050>`__
