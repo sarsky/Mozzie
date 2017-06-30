@@ -11,7 +11,7 @@ Parts Required
  * CF Undermount
  * 2x 25mm and 2X 40mm M4 screws and 4x M4 locking nuts
 
-..Note::
+.. Note::
   You will require two complete quad arms for the Mozzie. The front and rear quad arms are mechanically identical, however the ESC motor direction setting needs to match the diagram in the System Check section.
 
 
@@ -27,7 +27,7 @@ Their disassembly only requires the removal of the heatshrink and the motor scre
 An important step is to ensure that the length of the three cables between the ESC and the Motor is accurate.
 Making it two short will mean the ESC will be mounted to far out on the quad arm, and making it to long will mean that the cables won't fit under the heatshrink neatly.
 
-..Tip::
+.. Tip::
   If preferred one can assemble the quad arm parts first, using steps 2 and 3 below, to use the quad arms as a template to find the correct cable lengths.
 
 Solder a male XT30 plug to the red and black cables of the ESC ensuring the correct connector polarity. (Red + Black -) Don't forget to place the heat shrink on the cable first.
@@ -38,7 +38,7 @@ Then place a piece of heatshrink over each cable and solder the ESC cables to th
 
 Use the hot air gun to carefully heatshrink each solder joint.
 
-..Tip::
+.. Tip::
   The hot air gun can be very hot, be careful not to hold in one place for very long and gradually go along the length of the heatshrink until it becomes taught around the cables or connector.
   Avoid heating the ESC and motors directly for prolonged periods. Keep hands and flammable items well clear! (including the aircraft foam parts!!)
 
@@ -47,10 +47,10 @@ Use the hot air gun to carefully heatshrink each solder joint.
 Step 2 - Mounting the 3D Printed parts
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-..Caution::
+.. Caution::
   Carbon Fiber dust and particles can be potentially harmful. Do not inhale and use protective gloves in a well ventilated area to cut and work on the CF Bar.
 
-..Note::
+.. Note::
   Not all 3D parts come off the printer in perfect condition. Before assembling any 3D printed parts, or gluing any 3D printed parts ensure that the parts all fit together
   by carefully removing any excess plastic from the print and seeing if they dry fit together first!
 
@@ -60,7 +60,7 @@ then carefully file the cut edges smooth to allow for an easier fit.
 Mark the middle of each CF bar and test that the 3D printed parts fit onto the CF bar correctly with tight tolerances.
 Use the middle mark to align the middle pieces symmetrically and use the end of the CF bar to position the motor mount pieces.
 
-..Tip::
+.. Tip::
   Make sure the pieces all have the correct orientation and that the 3D printed Motor Mounts are on the correct side of the CF bar.
   The screw hole layout on the motor mount is determined by where the cables exit the motor so that they can run along the CF bar to the fuselage.
 
@@ -71,7 +71,7 @@ Use the middle mark to align the middle pieces symmetrically and use the end of 
 
 Then remove the 3D motor mounts and dry test fit the quad motors onto them.
 
-..Warning::
+.. Warning::
   Before screwing the motors onto the mounts make sure that the screws used to attach the motor mounts and CF Bar are the correct length! Screws that are too long will damage the motor windings!
   Screws that are too short will not hold the motors for prolonged use. Please use screws that just make it through the motor's lower aluminum plate (ideally by about 0.5-1mm).
   It's advisable to use washers to underneath the screw heads to distribute the forces and adjust the length as required.
@@ -82,7 +82,7 @@ Step 3 - Drilling the Motor Mount
 The 3D printed motor mounts are intentionally angled forwards so that the Mozzie has a pitch up wing angle of attack in the wind.
 To make sure the motor is mounted correctly it is necessary to drill the screw holes through the CF bar on an angle, the hole angle should be 90 degrees to the top surface of the 3D motor mount.
 
-..Tip::
+.. Tip::
   Try not to use to much force when the drill is nearly through the CF to avoid it splintering.
   Use the left over piece of CF bar to practice drilling.
 
@@ -106,7 +106,7 @@ The finished quad arm should look like this:
 .... image:: images/QuadArmFinish_sm.jpg
         :target: images/QuadArmFinish.jpg
 
-..Tip::
+.. Tip::
   The hot air gun can be very hot, be careful not to hold in one place for very long and gradually go along the length of the heatshrink until it becomes taught around the Quad arm.
   Avoid heating the ESC and motors directly for prolonged periods. Keep hands and flammable items well clear!
 
@@ -132,5 +132,5 @@ Then route all the ESC cables through their respective penetrations and carefull
 Make sure to align the quadarms and only tighten the arms so they cannot move around loosely on the foam fuslage.
 Be careful not to overtighten the screws as this will over fatigue the foam and make it structurally unstable.
 
-..Tip::
+.. Tip::
   Check at every pre-flight, and in particular after any hard landing (crash), that the quad arms do not have excessive movement and tighten as required.

@@ -8,10 +8,10 @@ we have predominately linked to the Arduplane pages for configuring the Pixhawk 
 Any VTOL capable autopilot that can be configured for a quadplane should be able to operate the platform as well and we welcome any such additions.
 
 
-..Note::
+.. Note::
   For ease of configuration we have a pre-configured parameter file for the Pixhawk that should get the airframe airborne with some basic tuning.
 
-..Tip::
+.. Tip::
   The configuration file is dependent on a similar propulsion setup and airframe layout, and should always be tuned for each individual aircraft.
   If a custom propulsion setup is used we recommend that the quad components have a lift to weight ratio of over 1.7 (so 2.5kg MTOW should have around 4.2kg lift).
 
@@ -46,7 +46,7 @@ Once the firmware is successfully installed, and whilst the Pixhawk is still con
 and select the "Full Parameter List" Menu item on the left of the screen. Then use the green "Load from File" button on the right and select the
 Mozzie.param that was downloaded above and use the Green "Write Params" to write the Mozzie parameters to the Pixhawk.
 
-..Tip::
+.. Tip::
   Writing the Mozzie parameter file should overwrite all the parameter data on the Pixhawk. Please confirm this by using the Mission Planner compare feature.
 
 
@@ -58,9 +58,9 @@ As described in the Avionics Assembly section the Pixhawk wiring should be conne
 ...... image:: .... image:: images/PXH_Wiring_sm.jpg
         :target: images/PXH_wiring.jpg
 
-..Tip::
+.. Tip::
   Further more detailed wiring information specifically for the Pixhawk can be found on the Ardupilot documentation pages here: `Pixhawk Wiring <http://ardupilot.org/plane/docs/common-pixhawk-wiring-and-quick-start.html>`_
 
 
-..Note::
+.. Note::
   Further information for configuring the Mozzie before flight can be found in the "Flying the Mozzie" section.
