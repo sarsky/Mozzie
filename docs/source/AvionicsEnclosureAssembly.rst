@@ -1,6 +1,6 @@
 Avionics Enclosure Assembly
 ===============================
- 
+
 
 3D Parts Required:
  - Avionics Enclosure Pi (bottom)
@@ -29,6 +29,8 @@ Components Required
  - Pi Reboot Relay
  - 1x Servo DS-929
  - Pixhawk
+ - M4 Countersunk Screws 1x20mm and 1x28mm long
+ - M2.5 Screws
 
 Step 1 -  Pre-Assembling the Avionics Enclosure
 ................................................
@@ -88,7 +90,7 @@ image 994
 .. Tip::
   Use a XXmm metal screw to thread the 3D printed extrusions prior to using plastic screws to attach the Pi to the enclosure.
 
-Take the completed Pi and USB assembly constructed in Wiring and Configuration Setup phase, place it into the Pi AE and attach it with the USB HUB supplied plastic screws.
+Take the completed Pi and USB assembly constructed Pi Setup phase, place it into the Pi AE and attach it with the USB HUB supplied plastic or equivalent metal screws.
 Route the cables as shown.
 
 .. image:: /images/AE/PiAEToCenter.jpg
@@ -203,3 +205,34 @@ The last thing to do is route the XSR Antenna's through the top opening and thro
 
  .. Note::
    The Front Servo connector should never be inserted into the Pixhawk or any standard servo connector as it is not compatible and can only be used with the LED strip as specified.
+
+
+Step 6 - Installing the Avionics into the Fuselage
+......................................................
+
+Insert the M4 locking nuts into the recess provided in the 3D printed Front and Rear Mounts. Install the damping balls on the Avionics Enclosure into the four large holes of the 3D printed Base plate.
+Then insert the other side of the balls into the 3D printed front and rear AE mount. The Front mount is higher than the Rear mount.
+
+.. Note::
+    The front of the Avionics Enclosure is the direction the arrow is pointing on the Pixhawk
+
+.. image:: /images/AE/FuseCut_sm.jpg
+    :target: /images/AE/FuseCut.jpg
+
+Use the 3D printed AE Screw Washers to mark the a circle where the foam needs to be recessed according to the dimensions on the photo above, and in the middle of the fuselage foam seam.
+Use a hobby knife to only recess a cone shape for the washers into the foam so that they fit flush to the outside. Do not cut all the way through the fuselage foam!
+Then hot glue the 3D printed Screw Washers in place, making sure they are straight and flush with the underside of the fuselage. (51mm and 19mm)
+
+Then mark the cutout for the camera gimbal as shown on the photo above. Try to keep the dimensions of the cutout about 2-3mm larger than the Camera gimbal itself and not too much larger.
+
+.. Tip::
+  Once the AE is installed the camera gimbal should be able to freely move inside the foam cutout, so that it is only attached by the enclosures damping ball system and does not touch anywhere else.
+  This should then provide the camera with enough vibration damping in flight.
+
+Carefully position the gimbal so that the camera is facing forwards and that it fits through the foam cutout in the fuselage.
+
+Slowly and carefully insert the Avionics Enclosure into the fuselage, and guide the camera gimbal out through the bottom of the fuselage at the same time.
+Carefully use the M4 20mm screw to attach the Rear Mount and the 28mm screw to attach the front mount to the fuselage
+whilst ensuring the camera gimbal is free to move in the foam cutout, and the Avionics Enclosure is aligned in the fuselage.
+
+Finally tighten the screws so the mounts cannot rotate and they partially compress the foam.
