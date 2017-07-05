@@ -30,7 +30,7 @@ Components Required
  - 1x Servo DS-929
  - Pixhawk
  - M4 Countersunk Screws 1x20mm and 1x28mm long
- - M2.5 Screws
+ - M3 Countersunk Screws 4x10mm and 4x18mm long
 
 Step 1 -  Pre-Assembling the Avionics Enclosure
 ................................................
@@ -59,36 +59,37 @@ Step 2 - Assembling the Pi Avionics Enclosure
 
 Connect the Pi camera ribbon cable to the Pi Camera with the contacts of the ribbon cable facing the picamera PCB.
 
-.. image:: /images/AE/ServoMountCam.jpg
-    :scale: 100%
+.. image:: /images/AE/ServoMountCam_SM.jpg
+    .. target:: /images/AE/ServoMountCam.jpg
 
 Then ensure the slot on the Pi Camera Servo Mount is clear and insert the Pi Camera ribbon cable in the orientation as shown.
 (note this must be the correct way otherwise it will not connect to the Pi Zero connector properly)
 
-.. image:: /images/AE/ServoMountAs.jpg
+.. image:: /images/AE/ServoMountAs_SM.jpg
     :scale: 100%
 
-2x images one for plug one for assembled 979 981
+
 
 Insert the Servo plug into the Camera Servo Mount as shown, making sure there are no twists in the cable so the Servo fits seamlessly into the mount.
 Screw the servo to the mount using the screws provided with the servo.
 
 
-.. image:: /images/AE/ServoToPiAE.jpg
+.. image:: /images/AE/ServoToPiAE_SM.jpg
     :scale: 100%
 
-3x images 1) insert cables 987 2) Side Screw 988 3) route cables 993
 
-Insert the cables through the Pi AE as shown, attach the Camera Servo Mount to the Pi Avionics Enclosure using the XXmm screws, and route the cables internally as shown above.
-Note the servo cable should be flat and routed inside the Pi mount "screw studs??" and then out the rear of the enclosure
+
+Insert the cables through the Pi AE as shown, attach the Camera Servo Mount to the Pi Avionics Enclosure using the M3 10mm screws, and route the cables internally as shown above.
+
+.. Note::
+   The servo cable should be flat and routed in between the Pi Enclosure 3D printed screw risers and then towards the rear of the enclosure to the Pi Zero ribbon connector.
 
 .. image:: /images/AE/PiNHub.jpg
     :scale: 100%
 
-image 994
 
 .. Tip::
-  Use a XXmm metal screw to thread the 3D printed extrusions prior to using plastic screws to attach the Pi to the enclosure.
+  Use a M2.5 12mm metal screw to thread the 3D printed extrusions prior to using plastic screws to attach the Pi to the enclosure.
 
 Take the completed Pi and USB assembly constructed Pi Setup phase, place it into the Pi AE and attach it with the USB HUB supplied plastic or equivalent metal screws.
 Route the cables as shown.
@@ -170,7 +171,7 @@ Step 5 - Attaching and Connecting the Pixhawk
 
    image 1016
 
-The Pixhawk can now be mounted using double sided foam tape, on the top of the Avionics Enclosure with Servo pins on the same side as the RFD antennas.
+The Pixhawk can now be mounted using double sided foam tape, on the top of the Avionics Enclosure with Servo rail of the Pixhawk facing the same side as the RFD antennas.
 
 .. Tip::
   Try to align the PXH straight onto the enclosure before sticking it in place
@@ -204,24 +205,25 @@ And then finally insert:
 The last thing to do is route the XSR Antenna's through the top opening and through the Antenna holder tubes. (Heat shrink the antenna cables once attached to the enclosure to strengthen the frail cables against damage)
 
  .. Note::
-   The Front Servo connector should never be inserted into the Pixhawk or any standard servo connector as it is not compatible and can only be used with the LED strip as specified.
+   The Front Pi LED servo connector that comes from the Pi Zero header should never be inserted into the Pixhawk or any standard servo connector as it is not compatible and can only be used with the LED strip as specified.
+   Do not use this connector for anything else otherwise the Pi IO might be damaged.
 
 
 Step 6 - Installing the Avionics into the Fuselage
 ......................................................
 
-Insert the M4 locking nuts into the recess provided in the 3D printed Front and Rear Mounts. Install the damping balls on the Avionics Enclosure into the four large holes of the 3D printed Base plate.
+Insert the M4 locking nuts into the recess provided in the 3D printed Front and Rear Mounts. If not already done in Step 1, install the damping balls on the Avionics Enclosure into the four large holes of the 3D printed Base plate.
 Then insert the other side of the balls into the 3D printed front and rear AE mount. The Front mount is higher than the Rear mount.
 
 .. Note::
-    The front of the Avionics Enclosure is the direction the arrow is pointing on the Pixhawk
+    The front of the Avionics Enclosure is the direction the arrow should pointing on the Pixhawk. The RFD antenna SMA connectors are on the rear of the enclosure.
 
 .. image:: /images/AE/FuseCut_sm.jpg
     :target: /images/AE/FuseCut.jpg
 
 Use the 3D printed AE Screw Washers to mark the a circle where the foam needs to be recessed according to the dimensions on the photo above, and in the middle of the fuselage foam seam.
 Use a hobby knife to only recess a cone shape for the washers into the foam so that they fit flush to the outside. Do not cut all the way through the fuselage foam!
-Then hot glue the 3D printed Screw Washers in place, making sure they are straight and flush with the underside of the fuselage. (51mm and 19mm)
+Then hot glue the 3D printed Screw Washers in place, making sure they are straight and flush with the underside of the fuselage.
 
 Then mark the cutout for the camera gimbal as shown on the photo above. Try to keep the dimensions of the cutout about 2-3mm larger than the Camera gimbal itself and not too much larger.
 
@@ -229,7 +231,7 @@ Then mark the cutout for the camera gimbal as shown on the photo above. Try to k
   Once the AE is installed the camera gimbal should be able to freely move inside the foam cutout, so that it is only attached by the enclosures damping ball system and does not touch anywhere else.
   This should then provide the camera with enough vibration damping in flight.
 
-Carefully position the gimbal so that the camera is facing forwards and that it fits through the foam cutout in the fuselage.
+Carefully position the gimbal so that the camera is facing forwards and inline with the gimbal Servo so that it fits through the foam cutout in the fuselage.
 
 Slowly and carefully insert the Avionics Enclosure into the fuselage, and guide the camera gimbal out through the bottom of the fuselage at the same time.
 Carefully use the M4 20mm screw to attach the Rear Mount and the 28mm screw to attach the front mount to the fuselage

@@ -46,7 +46,10 @@ Purchase List
 |                     Power Module and Sensor                22g         1     `HobbyKing <https://hobbyking.com/en_us/hkpilot-mega-10s-power-module-with-xt60-connectors.html>`__
 |                     Servo ext. cables Long
 |                     Servo ext. cables Short
-**Comms & RC**        RFD900x (1 Air & 1 Ground req)         12g         1    `RFD Aus <http://store.rfdesign.com.au/rfd-900x-modem/>`__
+**Comms & RC**        RFD900x (1 Air & 1 Ground req) **      12g         2    `RFD Aus <http://store.rfdesign.com.au/rfd-900x-modem/>`__
+|                     Pixhawk to RFD900x Cable                2g         1    `RFD Aus <http://store.rfdesign.com.au/pixhawk-to-rfd900-telemetry-cable-300mm/>`_
+|                     USB to FTDI Cable                      50g         1    `RFD Aus <http://store.rfdesign.com.au/ftdi-cable-3-3v/>`_
+|                     Antenna 900MHz 3dBi Dipole (RPSMA)     21g         2    `RFD Aus <http://store.rfdesign.com.au/antenna-900mhz-3dbi-dipole-rpsma/`_
 |                     Foil Antenna 300mm (or 500mm)           7g         2    `RFD Aus <http://store.rfdesign.com.au/rfdflex1-900mhz-flexible-pcb-antenna-300mm-rpsma/>`__
 |                     FrSKy XSR                               4g         1    `Banggood <http://www.banggood.com/FrSky-XSR-2_4GHz-16CH-ACCST-Receiver-S-Bus-CPPM-Output-Support-X9D-X9E-X9DP-X12S-X-Series-p-1031481.html?rmmds=search>`__
 **Servos**            Corona DS-929MG                        12g ea.     5    `HobbyKing <https://hobbyking.com/en_us/corona-digital-servo-2-2kg-0-11sec-12-5g.html>`__
@@ -57,6 +60,9 @@ Purchase List
 |                     Pi Reboot Relay (pololu RC small)       1g         1    `LittleBird Aus <https://littlebirdelectronics.com.au/products/pololu-rc-switch-with-small-low-side-mosfet>`__
 |                     SD Card 8GB (or Larger)                 1g         1
 ====================  =================================== ========== ======== ======================================
+
+.. Note::
+  ** All RF equipment, antennas and radios should be thoroughly range tested on each aircraft and base station setup. Please see the respective build sections prior to purchasing for more details.
 
 .. tip::
 

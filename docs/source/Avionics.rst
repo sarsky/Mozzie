@@ -19,7 +19,7 @@ it was possible to use the mass of the enclosure to dampen the camera and FC fro
 It considerably reduced the cabling complexity and cable use in the airframe which is a challenge for a small airframe, and also simplified the camera angle setup because the FC IMU was mounted on, and moved with, the same mechanical structure as the camera.
 
 .. Note::
-  The Avionics Enclosure build is divided up into a configuration and assembly sections. It is advisable to complete the configuration setup and bench test the configuration prior to assembling the Avionics Enclosure to avoid having to disassemble the enclosure in order to diagnose a malfunction of misconfiguration.
+  The Avionics Enclosure build is divided up into a configuration and assembly sections. It is advisable to complete the configuration setup and bench test the configuration components prior to assembling them into the Avionics Enclosure, to avoid having to disassemble the enclosure in order to diagnose a malfunction of misconfiguration.
 
 
 

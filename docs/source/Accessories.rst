@@ -14,11 +14,11 @@ The pitot tube 3D mount can be found on Thingiverse here: https://www.thingivers
 
 The pitot tube must be mounted in a position where it is exposed to laminar and not turbulent airflow to work accurately.
 It should not be placed behind or to close to any wings or other parts of the aircraft.
-Also make sure the air hoses can be routed cleanly to the airspeed sensor on the inside of the fuselage.
+Also make sure the air hoses can be routed cleanly, without being bent or clamped, to the airspeed sensor on the inside of the fuselage.
 Use the pitot riser or the template to mark and cutout the foam in the location that the pitot will be attached to the fuselage.
 
-.... image:: images/Pitot_sm.jpg
-      :target: images/Pitot.jpg
+.... image:: images/AE/Pitot_sm.jpg
+      :target: images/AE/Pitot.jpg
 
 First insert the pitot tube into the 3D printed screw cap and then connect the air hoses to the pitot tube and route then through the pitot mount riser.
 Carefully insert the pitot tube and air hoses into the 3D printed pitot riser making sure that they are not damaged or kinked, and then screw the cap onto the riser.
@@ -35,16 +35,16 @@ For this reason we have opted to mount the GPS on the left wing, which requires 
 The GPS can be unclipped from the 3D printed mount and the cable can remain connected to the FC for transport with the wing removed, however,
 make sure the GPS is placed in the fuselage for transport so the GPS cable is not damaged.
 
-.... image:: images/GPS1_sm.jpg
-      :target: images/GPS1.jpg
+.... image:: images/AE/GPS1_sm.jpg
+      :target: images/AE/GPS1.jpg
 
 To mount the GPS, first use the GPS M8 Mount and Conduit 3D print to mark the position of them on the wing, making sure the GPS cable is long enough to reach that location with no tension on the connector,
 and avoiding any other structures in the wing like cables and spars.
 Then cut out the foam to recess the GPS mount and cable conduit into the wing so the top of the 3D GPS Mount and Conduit is flush with the top of the wing foam.
 Dry fit all the parts, including the GPS module and cable to make sure they fit and then glue into the wing.
 
-.... image:: images/GPS2_sm.jpg
-      :target: images/GPS2.jpg
+.... image:: images/AE/GPS2_sm.jpg
+      :target: images/AE/GPS2.jpg
 
 When assembling the aircraft clip the GPS module and cable into the relevant 3D printed parts in the wing and make sure they are not loose when fitted,
 and that the cable does not get damaged when inserting or removing the GPS module. Trim and adjust the parts as required.
@@ -118,8 +118,8 @@ For this we are using a simple XT60 plug that is inserted into Power Loom to clo
   Disconnecting the battery will completely un-power all the aircraft systems, but it is advisable to unplug the power key every time work is to be done on the aircraft for safety reasons, because the propellers and motors will be disabled.
   Running the aircraft without the power key is also convenient for bench testing and configuring the avionics before flight.
 
-.... image:: images/PowerKey_sm.jpg
-      :target: images/PowerKey.jpg
+.... image:: images/AE/PowerKey_sm.jpg
+      :target: images/AE/PowerKey.jpg
 
 To install the Power Key 3D print use it to score and mark the position you would like to install the key on the fuselage, making sure that the power loom cable can reach that location and the 3D print can fit against the foam smoothly.
 Cut out the foam smaller than the 3D print so that the print fits snuggly into the fuselage.
@@ -144,8 +144,9 @@ Then carefully mark that location and cut out the fuselage foam with a hobby kni
 
 Glue the Safety Switch 3D print into the hole and wait for it to set. Insert the cable of the Safety Switch through the 3D print and carefully route it to the FC and connect it to the Switch connector.
 
-.... image:: images/SafetySwitch_sm.jpg
-      :target: images/SafetySwitch.jpg
+.... image:: images/AE/SafetySwitch_sm.jpg
+      :target: images/AE/SafetySwitch.jpg
+
 
 Sample Vial
 .............
@@ -169,5 +170,5 @@ Cable Management
 
 It's good practice to ensure that all the cables, connectors and any penetrations where cables go through hard materials are managed
 by ensuring they are not tensioned, cut, clamped, bent or excessively fatigued through movement.
-By adding some cable ties, cable clips and cable wrap, the overall presentation and routing of cables can be improved and protected.
+By adding some cable ties, cable clips and spiral cable wrap, the overall presentation and routing of cables can be improved and protected.
 This also helps greatly when trying diagnose hardware or wiring issues, as well as making sure that everything is connected the way it should be when doing pre-flight checks.

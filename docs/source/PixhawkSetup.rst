@@ -10,9 +10,9 @@ Any VTOL capable autopilot that can be configured for a quadplane should be able
 
 .. Note::
   For ease of configuration we have a pre-configured parameter file for the Pixhawk that should get the airframe airborne with some basic tuning.
+  The Mozzie parameter file is dependent on a similar propulsion setup and airframe layout, and should always be tuned for each aircraft separately.
 
 .. Tip::
-  The configuration file is dependent on a similar propulsion setup and airframe layout, and should always be tuned for each individual aircraft.
   If a custom propulsion setup is used we recommend that the quad components have a lift to weight ratio of over 1.7 (so 2.5kg MTOW should have around 4.2kg lift).
 
 
@@ -63,4 +63,4 @@ As described in the Avionics Assembly section the Pixhawk wiring should be conne
 
 
 .. Note::
-  Further information for configuring the Mozzie before flight can be found in the "Flying the Mozzie" section.
+  Further information for configuring the Mozzie before flight can be found in the "Flying the Mozzie" section, which includes RC calibration and PXH configuration checks.

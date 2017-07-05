@@ -66,10 +66,12 @@ This needs to be pointing the correct way to ensure the motor cables can be rout
 .. todo::
    image:: /images/Fuselage/TalonFuselageGlue.jpg
 
-Once you are comfortable that all the parts fit together without glue then glue one side of the Talon Box into the fuselage as well as the Forward Motor Mount (check the orientation!).
-The carefully run a bead of glue around the entire perimeter of the fuselage and over the area of the rear rudder, and the other side of the Talon Box plastic.
-Carefully place the other fuselage over the 3D printed parts, check alignment of the parts, and press the two halves together firmly.
-Whilst holding the halves together use some tape to wrap around the fuselage to keep it firmly together while the glue sets over a few hours or overnight.
+Once you are comfortable that all the parts fit together without glue, then UHU glue one side of the Talon Box into the fuselage as well as the Forward Motor Mount (check the orientation!).
+Then carefully run a bead of glue around the entire perimeter of the fuselage and over the area of the rear rudder,
+and the other side of the Talon Box Side that will go into the second fuselage half.
+Carefully place the other fuselage half over the 3D printed parts, check alignment of the parts, and press the two halves together firmly.
+Whilst holding the halves together use some tape to carefully wrap around the fuselage to keep it firmly together while the glue sets over a few hours or overnight.
+Take care not to leave any gaps in the fuselage seam as this will weaken the fuselage structure.
 
 .. image:: /images/Fuselage/GluedFuselage.jpg
     :scale: 100%
@@ -79,6 +81,20 @@ Make sure the rear motor mount is aligned, and the rudder halves and fuselage ar
 .. image:: /images/Fuselage/FuselageTape.jpg
     :scale: 100%
 
+Step 4 - Attaching the Extra 3D parts
+........................................
+
+The 3D printed Front Skid is a useful option for the aircraft as it allows you to use it for Mozzie bungee launches.
+With some practice this can be done in Manual Mode by the pilot in command in the aircraft,
+or via setting up the Autopilot for a Auto Takeoff as is explained further in the Flying the Mozzie section.
+
+Before you attach the front skid insert a countersunk head M4 14-15mm long screw through the Front Skid screw hole.
+Preferably trim the screw length so that it does not exceed the bungee hook recess in the 3D print.
+
+Carefully mark and cut out the foam to so the Front Skid fits tightly on the bottom nose of the aircraft,
+in particular the bungee hook recess, and attach with hot glue.
+
+Once you have found the correct orientation that fits the tail best, you can attach the Rear Tail Skid 3D print using hot glue as well.
 
 Wings
 ------
@@ -146,18 +162,3 @@ To secure the servos use a piece of tape on either side of the servo making sure
 
 After keying the control horns with sandpaper glue them into the provided recesses with the holes of the horn facing the servo.
 Attach the control rod and hardware as shown, however do not yet use Loctite to secure the control rod screw until the Full System Check has been completed.
-
-Step 4 - Attaching the Extra 3D parts
-........................................
-
-The 3D printed Front Skid is a useful option for the aircraft as it allows you to use it for Mozzie bungee launches.
-With some practice this can be done in manually by the pilot in command in the aircraft,
-or via setting up the Autopilot for a Auto takeoff as is explained further in the Flying the Mozzie section.
-
-Before you attach the front skid insert a countersunk head M4 14-15mm long screw through the Front Skid screw hole.
-Preferably trim the screw length so that it does not exceed the bungee hook recess in the 3D print.
-
-Carefully mark and cut out the foam to so the Front Skid fits tightly on the bottom nose of the aircraft,
-in particular the bungee hook recess, and attach with hot glue.
-
-Once you have found the correct orientation that fits the tail best, you can attach the Rear Tail Skid 3D print using hot glue as well.

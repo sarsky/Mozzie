@@ -55,7 +55,7 @@ A pre-flight range check should be done before each flying session. Reflections 
   1.  Place the model at least 60cm (two feet) above non-metal contaminated ground (e.g. on a wooden bench).
   2.  The receiver antennas should be separated in the model and should not touch the ground.
   3.	The module antenna should be in a vertical position.
-  4.  Turn on the transmitter and the receiver, press the F/5 button on the XJT module for 4 seconds to enter range check mode (or use menu ion Taranis), the RED LED will be off, GREEN LED will flash rapidly. The effective distance will be decreased to 1130 (at least 30m).
+  4.  Turn on the transmitter and the receiver, press the F/5 button on the XJT module for 4 seconds to enter range check mode (or use menu on the Taranis), the RED LED will be off, GREEN LED will flash rapidly. The effective distance will be decreased to 1130 (at least 30m).
   5.  Walk away from the model while simultaneously operating the controls on the transmitter to confirm all controls operate normally.
   6.	Press the F/S button on the XJT module for 1-2 seconds to exit range check mode (or disable on Taranis). A steady RED LED indicates normal operation.
 
@@ -65,7 +65,7 @@ Failsafe
 ..........
 
 .. note::
-  For the competition flight it is advisable to turn of the RC failsafes completely and rely on the RFD900x and Pixhawk setup only to deal with RC failures or loss of signal. For flight testing outside of the competition it is recommended to use the RC failsafe as it can add an extra layer of protection if it is configured correctly.
+  For the competition flight it is advisable to turn off the RC failsafes completely and rely on the RFD900x and Pixhawk setup only to deal with RC failures or loss of signal. For flight testing outside of the competition it is recommended to use the RC failsafe as it can add an extra layer of protection if it is configured correctly.
   If failsafe is not set on the Pixhawk and RC the failsafe default will hold the last position before signal was lost. In this case, there is a risk your model will fly away, crash or cause injury. Setting a geofence is also advisable to avoid fly aways.
 
 Failsafe is a useful feature in which all controls move to a preset position whenever the control signal is lost for a period of time. XSR supports failsafe function for all channels. Follow the steps below to sat failsafe positons for each channel:
@@ -83,5 +83,5 @@ To disable the failsafe function, re-bind the receiver.
 FrSky Telemetry
 ....................
 
-There's also an option to add Telemetry back to the Taranis LCD screen using the FrSky Receiver.
+There's also an option to add Telemetry from the Pixhawk to the Taranis LCD screen using the FrSky Receiver.
 This works if you connect the RC receiver to the RFD900x or directly to the Pixhawk if you follow these instructions: `FrSky Telemetry <http://ardupilot.org/copter/docs/common-frsky-telemetry.html>`_
