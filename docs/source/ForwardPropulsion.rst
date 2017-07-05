@@ -1,6 +1,6 @@
 Forward Propulsion
 =====================
- 
+
 Place forward motor ESC into tail of fuselage and guide the three motor cables out of the rear 3D printed motor mount center.
 Connect the three motor cables to the ESC making sure they are not loose and can come apart.
 

@@ -14,8 +14,8 @@ Quad ESC setup
   These instructions and parameters are specifically for the setup of the ZTW Spider Pro 30A HV ESCs using a Arduino Nano 328 board that can be flashed with the BLHeli bootloader.
   If using different ESCs please check the manufacturers recommended settings for the specific motor and ESC used.
 
-  .. image:: /images/BLHeli_ArduinoESC_SM.jpg
-      :target: /images/BLHeli_ArduinoESC.jpg
+.. image:: /images/BLHeli_ArduinoESC_SM.jpg
+    :target: /images/BLHeli_ArduinoESC.jpg
 
 To setup the ZTW ESC download the latest version of `BLHeli Suite <https://blhelisuite.wordpress.com/>`_
 Then run BLHeliSuite.exe from the extracted folder you downloaded.

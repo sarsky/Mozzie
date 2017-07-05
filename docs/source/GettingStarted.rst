@@ -46,6 +46,8 @@ Purchase List
 |                     Power Module and Sensor                22g         1     `HobbyKing <https://hobbyking.com/en_us/hkpilot-mega-10s-power-module-with-xt60-connectors.html>`__
 |                     Servo ext. cables Long
 |                     Servo ext. cables Short
+|                     Screws                                                   Countersunk Screws M3 4x10mm, 4x18mm. M2.5 4x12mm
+|                     Damping Balls                                      4    `HobbyKing <https://hobbyking.com/en_us/vibration-damping-ball-50gram-8-pcs-bag.html`_
 **Comms & RC**        RFD900x (1 Air & 1 Ground req) **      12g         2    `RFD Aus <http://store.rfdesign.com.au/rfd-900x-modem/>`__
 |                     Pixhawk to RFD900x Cable                2g         1    `RFD Aus <http://store.rfdesign.com.au/pixhawk-to-rfd900-telemetry-cable-300mm/>`_
 |                     USB to FTDI Cable                      50g         1    `RFD Aus <http://store.rfdesign.com.au/ftdi-cable-3-3v/>`_
@@ -144,8 +146,6 @@ Quad Arm Parts
 |
 
 
-
-
 Workspace
 ---------
 
@@ -168,7 +168,7 @@ Consumables Required:
  2) A good quality clear packaging tape and a mesh reinforced tape
  3) Sandpaper
 
-Recomended
+Recommended
  1) Soldering iron holder
  2) Hot Air Gun
  3) Cutting mat
@@ -182,7 +182,9 @@ Hobby knives and scissors are very sharp and should be handled with care, try no
 
 The soldering iron and heat gun can cause serious burns that may require treatment by a doctor or hospital.
 Use care to place the hot items on a non-flammable materials, out of the way so they can't be touched or bumped into. A soldering iron holder is recommended.
-Soldering also produces toxic fumes so ensure that a well ventilated room and/or small extraction fan is used.
-They can also present a fire danger so keep them away from flammable items and make sure they are turned off when you leave them.
+
+.. Caution::
+  Soldering also produces toxic fumes so ensure that a well ventilated room and/or small extraction fan is used.
+  They can also present a fire danger so keep them away from flammable items and make sure they are turned off when you leave them.
 
 Remember making the Mozzie should be fun, but getting hurt is not!

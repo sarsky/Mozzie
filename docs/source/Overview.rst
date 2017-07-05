@@ -5,6 +5,9 @@ The original idea for the Mozzie project was to create a UAV Challenge READY Qua
 
 This is a complete build instruction wiki to assemble a "Mozzie" quadplane identical to what was used by PerthUAV in the 2016 Medical Express UAV Challenge.
 
+.. image:: images/Hopper.jpg
+    :scale: 100%
+
 Our intention is that the Mozzie can be used as a base platform to develop systems and technology for UAV challenges, or even as the actual platform being used in a UAV challenge.
 This is also our attempt to give back to the Ardupilot and other UAV open source communities, as a thank you for all their efforts and work, which has made the Mozzie platform possible in the first place.
 
@@ -15,9 +18,6 @@ teams running out of time, funds and team resources before they can even partici
 The Mozzie platform and documentation tries to overcome these hurdles by offering a single resource for the completion of a mission capable system that can be competitive in the event.
 In turn, we hope this results in a popular uptake of the Mozzie platform, so that users can contribute back with design and implementation improvements over time, to make the platform even better.
 
-
-.. image:: images/Hopper.jpg
-    :scale: 100%
 
 .. Note::
    This wiki page is a work in progress and will be completed as the
@@ -45,8 +45,7 @@ We expect to add solutions as they come to hand from users who participate in th
 we offer no guarantee as to the performance of the Mozzie at the event, as this is ultimately the responsibility of the Challenge participants themselves.
 We sincerely hope that the information provided here will assist teams in developing their own systems and improvements to the Mozzie platform, that increases their chance of winning the challenge.
 
-More Information on the 2018 Medical Express UAV Challenge can be found here:
-https://uavchallenge.org/medical-express/
+More Information on the 2018 Medical Express UAV Challenge can be found `HERE <https://uavchallenge.org/medical-express>`_
 
 Introduction to Quadplanes
 ---------------------------
@@ -59,12 +58,13 @@ and by varying motor revolutions it can modulate aircraft attitude control. It's
 so either flight system is capable of keeping the Mozzie airborne should the other flight system fail in flight.
 
 Either flight system can also be leveraged to assist the other in flight by allowing each flight system simultaneous control in certain flight situations.
-For example, wing stall can be eliminated by using the quad assist feature to produce thrust when the forward airspeed does not suffice to produce enough lift with the wings.
+For example, wing stall can be eliminated by using the quad assist feature to produce lift when the forward airspeed does not suffice to produce enough lift with the wings.
 This also assists in control authority in low airspeeds, where the quad assist thrust can allow maneuverability beyond what the aircraft can manage with wings alone.
 This in turn means a more aggressive AoA of the wings can be used in flight, which reduces quad motor load in conjunction with forward motor assist,
-particularly in strong wind situations. This can significantly improve hover efficiency because the Mozzie wings continue to produce lift.
+particularly in strong wind situations. This can significantly improve hover efficiency because the Mozzie wings continue to produce lift at low relative airspeeds.
 
 Having two flight systems also affords the Mozzie a redundant flight recovery system should one system fail. The Mozzie can takeoff and land in both forward and quad mode. (forward takeoff recommended with bungee)
+
 
 Another benefit of adopting two separate flight systems is the ability to optimise each of those flight systems for the intended flight profile.
 For the challenge, the aircraft system will predominately be operated in forward flight mode utilizing the wings for lift, as this is the most efficient way to achieve the cruise speed and range required for the mission.

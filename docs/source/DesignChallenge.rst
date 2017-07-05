@@ -1,8 +1,7 @@
 Planning and Designing for the UAV Challenge
 ---------------------------------------------
 
-The anatomy of a Mozzie
-^^^^^^^^^^^^^^^^^^^^^^^^
+**The anatomy of a Mozzie.**
 
 As a part of the design process one of the first steps we took was to identify the core goals of the project before we started.
 We found that how teams set goals also ultimately defined how successful they were in the event.
@@ -47,5 +46,5 @@ Many teams fail to even get to the event because they cannot achieve their goals
 Creating brand new systems typically requires lots of time, so trying to avoid them should, in theory, give you more time to achieve your priorities.
 Any plan only works if there is enough time to complete it, so having a plan with strict milestones increases the teams chances of getting to the event, and winning.
 
-So like a real Mosquito that can carry up to 3 times it's weight in blood, and apart from trying to train a real mosquito to hunt for Joe in the event,
+So like a real Mosquito that can carry up to 3 times it's own weight in blood, and apart from trying to train a real mosquito to hunt for Joe in the challenge,
 the "Mozzie" is our attempt to replicate this feat as close as we can.

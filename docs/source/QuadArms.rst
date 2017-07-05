@@ -18,7 +18,7 @@ Parts Required
 Step 1 - Soldering the Motor and ESC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.... image:: images/QuadArmSolder_sm.jpg
+.. image:: images/QuadArmSolder_sm.jpg
         :target: images/QuadArmSolder.jpg
 
 Because of the compact lightweight design of the quad arms some care must be taken with their construction and assembly.
@@ -65,7 +65,7 @@ Use the middle mark to align the middle pieces symmetrically and use the end of 
   The screw hole layout on the motor mount is determined by where the cables exit the motor so that they can run along the CF bar to the fuselage.
 
 
-.... image:: images/QuadArmDry_sm.jpg
+.. image:: images/QuadArmDry_sm.jpg
         :target: images/QuadArmDry.jpg
 
 
@@ -89,7 +89,7 @@ To make sure the motor is mounted correctly it is necessary to drill the screw h
 Slide the all 3D printed parts onto the CF bar as shown in Step 1, into the desired location with the correct orientation and placement.
 Use a sacrificial 3D printed motor mount or timber wedge with the right angle as follows to get the correct drill angle, and then very slowly drill Xmm holes using a drill press if possible.
 
-.... image:: images/QuadArmDrill_sm.jpg
+.. image:: images/QuadArmDrill_sm.jpg
         :target: images/QuadArmDrill.jpg
 
 After cleaning the newly drilled holes, carefully screw the motors onto the mounts and CF bar, and check to see if the motors can spin freely.
@@ -103,7 +103,7 @@ Align the cables and ESC along the CF bar and try to keep the cables to the fron
 
 The finished quad arm should look like this:
 
-.... image:: images/QuadArmFinish_sm.jpg
+.. image:: images/QuadArmFinish_sm.jpg
         :target: images/QuadArmFinish.jpg
 
 .. Tip::
@@ -120,7 +120,7 @@ Mark the screw holes and rectangular cable penetrations on the 3D printed middle
 Carefully cut the foam all the way through to the inside of the fuselage so that the cables can be routed internally to the power loom,
 and that the servo cables can be routed to the Pixhawk from the quad arms.
 
-.... image:: images/QuadArmComplete_sm.jpg
+.. image:: images/QuadArmComplete_sm.jpg
         :target: images/QuadArmComplete.jpg
 
 Place the M4 locking nuts into the undermount and insert the screws through the quad arm and then through the fuselage.

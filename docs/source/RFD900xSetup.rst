@@ -4,7 +4,8 @@ RFD900x Setup
 .. image:: /images/RFD900x/RFD900x.jpg
 
 These instructions should be read in addition to the RFD900x Manual that can be found here: `RFD900x Manual <http://files.rfdesign.com.au/Files/documents/RFD900x%20DataSheet.pdf>`_
-PtP software Manual cane be found `here <`Software Manual PtP <http://files.rfdesign.com.au/Files/documents/RFD900x%20Peer-to-peer%20User%20Manual.pdf>`_>`_
+
+PtP software Manual cane be found here: `Software Manual PtP <http://files.rfdesign.com.au/Files/documents/RFD900x%20Peer-to-peer%20User%20Manual.pdf>`_
 
 All radio frequency components used for the Mozzie are sensitive to RF interference, from both internal and external sources.
 Although the setup described here has been used and tested to the ranges required for the competition this does not guarantee their performance at the event.
@@ -51,7 +52,7 @@ Connect the RFD900x to a PC USB using a compatible USB to FDTI cable that also s
 Plug in the USB side of the cable into a compatible USB port that can supply enough power to the RFD900x.
 
 .. Tip::
-   It is advisable to use a antenna at all times whenever the RFD900 is powered and to connect the RFD900 to a external power source to avoid power brownouts,
+   It is advisable to use a antenna whenever the RFD900 is powered and to connect the RFD900 to a external power source to avoid power brownouts,
    because not all USB ports can deliver sufficient power to the RFD900.
 
 
@@ -69,4 +70,4 @@ As a guide the settings we use are as follows:
 .. Warning::
   The air and ground radio setups need to match the types of antenna used and not exceed the EIRP limits of the country you are operating in.
   It is solely the users responsibility to ensure the settings comply with their countries regulations and with the competition rules.
-  More country settings can be found `here <http://ardupilot.org/copter/docs/common-telemetry-radio-regional-regulations.html#common-telemetry-radio-regional-regulations>`_
+  More country settings can be found `here. <http://ardupilot.org/copter/docs/common-telemetry-radio-regional-regulations.html#common-telemetry-radio-regional-regulations>`_

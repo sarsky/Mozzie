@@ -9,15 +9,15 @@ The airspeed sensor is mounted in the avionics enclosure and connected via the I
 
 The pitot tube 3D mount can be found on Thingiverse here: https://www.thingiverse.com/thing:169317
 
-  ..Tip::
-    Prior to mounting the pitot tube ensure the 3D printed parts screw together and there is enough clearance for the pitot tube and rubber hoses to fit through the print.
+.. Tip::
+  Prior to mounting the pitot tube ensure the 3D printed parts screw together and there is enough clearance for the pitot tube and rubber hoses to fit through the print.
 
 The pitot tube must be mounted in a position where it is exposed to laminar and not turbulent airflow to work accurately.
 It should not be placed behind or to close to any wings or other parts of the aircraft.
 Also make sure the air hoses can be routed cleanly, without being bent or clamped, to the airspeed sensor on the inside of the fuselage.
 Use the pitot riser or the template to mark and cutout the foam in the location that the pitot will be attached to the fuselage.
 
-.... image:: images/AE/Pitot_sm.jpg
+.. image:: images/AE/Pitot_sm.jpg
       :target: images/AE/Pitot.jpg
 
 First insert the pitot tube into the 3D printed screw cap and then connect the air hoses to the pitot tube and route then through the pitot mount riser.
@@ -35,15 +35,15 @@ For this reason we have opted to mount the GPS on the left wing, which requires 
 The GPS can be unclipped from the 3D printed mount and the cable can remain connected to the FC for transport with the wing removed, however,
 make sure the GPS is placed in the fuselage for transport so the GPS cable is not damaged.
 
-.... image:: images/AE/GPS1_sm.jpg
-      :target: images/AE/GPS1.jpg
+.. image:: images/AE/GPS1_sm.jpg
+    :target: images/AE/GPS1.jpg
 
 To mount the GPS, first use the GPS M8 Mount and Conduit 3D print to mark the position of them on the wing, making sure the GPS cable is long enough to reach that location with no tension on the connector,
 and avoiding any other structures in the wing like cables and spars.
 Then cut out the foam to recess the GPS mount and cable conduit into the wing so the top of the 3D GPS Mount and Conduit is flush with the top of the wing foam.
 Dry fit all the parts, including the GPS module and cable to make sure they fit and then glue into the wing.
 
-.... image:: images/AE/GPS2_sm.jpg
+.. image:: images/AE/GPS2_sm.jpg
       :target: images/AE/GPS2.jpg
 
 When assembling the aircraft clip the GPS module and cable into the relevant 3D printed parts in the wing and make sure they are not loose when fitted,
@@ -69,7 +69,7 @@ Connecting an external USB wifi module will perform better, and ranges of multip
 Having in flight wifi connectivity might also be useful to use to download images or for short range telemetry should any of the other primary connectivity systems like 3G/4G mobile data or RFD900 telemetry fail in flight,
 as it allows connectivity without requiring the landing of the aircraft.
 
- ..Tip::
+.. Tip::
    It is possible the wifi will interfere with the FrSky RC signal as they can operate on the same 2.4Ghz frequencies. If possible use a 5.8Ghz wifi USB module.
 
 RFD900x Telemetry
@@ -83,7 +83,7 @@ Being a small airframe positioning the antennas with enough separation and the c
 We have opted to mount both the foil antenna's on the foam V-tail of the Mozzie as these surfaces are mostly RF transparent and the antenna cables can be conveniently connected directly to the RFD900x on the avionics enclosure.
 The antenna orientation also allows for good ground coverage which is not typically sensitive to aircraft heading changes.
 
- .. Tip::
+.. Tip::
    It is advisable to test the long range performance of the RFD900x by using a separate ground team at a remote location,
    while another local ground crew can fly and observe the Mozzie directly overhead and be ready to use the RC to take control should the aircraft loose telemetry.
    Note for this to work reliably the FrSky receiver must be installed in the Mozzie.
@@ -118,7 +118,7 @@ For this we are using a simple XT60 plug that is inserted into Power Loom to clo
   Disconnecting the battery will completely un-power all the aircraft systems, but it is advisable to unplug the power key every time work is to be done on the aircraft for safety reasons, because the propellers and motors will be disabled.
   Running the aircraft without the power key is also convenient for bench testing and configuring the avionics before flight.
 
-.... image:: images/AE/PowerKey_sm.jpg
+.. image:: images/AE/PowerKey_sm.jpg
       :target: images/AE/PowerKey.jpg
 
 To install the Power Key 3D print use it to score and mark the position you would like to install the key on the fuselage, making sure that the power loom cable can reach that location and the 3D print can fit against the foam smoothly.
@@ -144,7 +144,7 @@ Then carefully mark that location and cut out the fuselage foam with a hobby kni
 
 Glue the Safety Switch 3D print into the hole and wait for it to set. Insert the cable of the Safety Switch through the 3D print and carefully route it to the FC and connect it to the Switch connector.
 
-.... image:: images/AE/SafetySwitch_sm.jpg
+.. image:: images/AE/SafetySwitch_sm.jpg
       :target: images/AE/SafetySwitch.jpg
 
 
@@ -155,7 +155,7 @@ For the blood sample the challenge rules require a tube 100mm long and 20mm wide
 We used a Berocca tube (similar to a Smarties tube) with about the right dimensions, but any lightweight tube of similar dimensions should suffice to contain the sample.
 Adding extra padding to reduce the likelihood of breaking the vial is optional.
 
-.... image:: images/SampleTube_sm.jpg
+.. image:: images/SampleTube_sm.jpg
       :target: images/SampleTube.jpg
 
 First cut the Berocca tube to the right length so that it just clears the height of the foam lid whilst standing on the 3D printed cap. This should be about XXmm long.
