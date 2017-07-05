@@ -1,8 +1,7 @@
 RFD900x Setup
 ==============
 
-.. todo::
-   image:: /images/RFD900x/RFD900x.jpg
+.. image:: /images/RFD900x/RFD900x.jpg
 
 These instructions should be read in addition to the RFD900x Manual that can be found here: `RFD900x Manual <http://files.rfdesign.com.au/Files/documents/RFD900x%20DataSheet.pdf>`_
 PtP software Manual cane be found `here <`Software Manual PtP <http://files.rfdesign.com.au/Files/documents/RFD900x%20Peer-to-peer%20User%20Manual.pdf>`_>`_
