@@ -1,8 +1,7 @@
 RFD900x Setup
 ==============
 
-.. image:: /images/RFD900x/RFD900x_SM.jpg
-     :target: /images/RFD900x/RFD900x.jpg
+.. image:: /images/RFD900x/RFD900x.jpg
 
 These instructions should be read in addition to the RFD900x Manual that can be found here: `RFD900x Manual <http://files.rfdesign.com.au/Files/documents/RFD900x%20DataSheet.pdf>`_
 
