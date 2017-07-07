@@ -1,7 +1,8 @@
 RFD900x Setup
 ==============
 
-.. image:: /images/RFD900x/RFD900x.jpg
+.. image:: /images/RFD900x/RFD900x_SM.jpg
+     :target: /images/RFD900x/RFD900x.jpg
 
 These instructions should be read in addition to the RFD900x Manual that can be found here: `RFD900x Manual <http://files.rfdesign.com.au/Files/documents/RFD900x%20DataSheet.pdf>`_
 
@@ -38,7 +39,8 @@ The easiest way to connect the RFD900x to the Pixhawk is using a pre-assembled `
 .. image:: /images/AE/RFD900xWiring_SM.jpg
       :target: /images/AE/RFD900xWiring.jpg
 
-.. image:: /images/AE/RFD_Pins.jpg
+.. image:: /images/AE/RFD_Pins_SM.jpg
+      :target: /images/AE/RFD_Pins.jpg
 
 
 Connecting the RFD900 to Computer
@@ -46,7 +48,7 @@ Connecting the RFD900 to Computer
 
 Connect the RFD900x to a PC USB using a compatible USB to FDTI cable that also supplies power to the radio as shown below:
 
-   image:: /images/AE/RFD900x_FTDI_SM.jpg
+.. image:: /images/AE/RFD900x_FTDI_SM.jpg
       :target: /images/AE/RFD900x_FTDI.jpg
 
 Plug in the USB side of the cable into a compatible USB port that can supply enough power to the RFD900x.
@@ -65,7 +67,8 @@ Please follow the Mission Planner configuration instructions to `setup the RFD90
 
 As a guide the settings we use are as follows:
 
-.. image:: images/RFD900x/RFD900xMPSettings.jpg
+.. image:: images/RFD900x/RFD900xMPSettings_SM.jpg
+       :target: images/RFD900x/RFD900xMPSettings.jpg
 
 .. Warning::
   The air and ground radio setups need to match the types of antenna used and not exceed the EIRP limits of the country you are operating in.

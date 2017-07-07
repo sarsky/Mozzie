@@ -30,5 +30,5 @@ It considerably reduced the cabling complexity and cable use in the airframe whi
    PixhawkSetup
    RXSetup
    RFD900xSetup
-   PiSetup
-   SoftwareSetup
+   # PiSetup
+   # SoftwareSetup

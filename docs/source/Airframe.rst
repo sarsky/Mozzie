@@ -12,8 +12,8 @@ Step 1 - Assembling the 3D Printed Fuselage Frame
   - Talon Box Left Side
   - Talon Box Right Side
 
-.. image:: /images/Fuselage/TalonBoxParts.jpg
-    :scale: 100%
+.. image:: /images/Fuselage/TalonBoxParts_SM.jpg
+    :target: /images/Fuselage/TalonBoxParts.jpg
 
 .. Tip::
     Not all 3D parts come off the printer in perfect condition. Before assembling any 3D printed parts,
@@ -27,8 +27,8 @@ Note that it may take some force to slide the parts together and they will be di
 This is intentional so parts do not need to be glued together.
 
 
-.. image:: /images/Fuselage/TalonBoxAssembled.jpg
-    :scale: 100%
+.. image:: /images/Fuselage/TalonBoxAssembled_SM.jpg
+    :target: /images/Fuselage/TalonBoxAssembled.jpg
 
 .. Tip::
   Use a 80-200 grit sandpaper to key the surfaces of the 3D printed parts (make it rough) that will come in contact with the foam when assembled.
@@ -37,8 +37,8 @@ This is intentional so parts do not need to be glued together.
 Step 2 - Assembling the Fuselage
 ..................................
 
-.. image:: /images/Fuselage/TalonBoxInFuselageParts.jpg
-    :scale: 100%
+.. image:: /images/Fuselage/TalonBoxInFuselageParts_SM.jpg
+    :target: /images/Fuselage/TalonBoxInFuselageParts.jpg
 
 .. Tip::
   It's generally good practice when assembling a model to check that all the supplied parts fit together before gluing it.
@@ -46,19 +46,19 @@ Step 2 - Assembling the Fuselage
   It's also a good opportunity to see if you have all the parts you require to complete the build step you attempting, and lay them and any tools you need out in preparation for assembly.
 
 
-.. image:: /images/Fuselage/RearServoCableCut.jpg
-    :scale: 100%
+.. image:: /images/Fuselage/RearServoCableCut_SM.jpg
+    :target: /images/Fuselage/RearServoCableCut.jpg
 
 Cut out the foam with the hobby knife as shown on both pieces of the fuselage foam so that the tail servo cables can fit through the opening easily.
 
-.. image:: /images/Fuselage/TalonBoxInFuselage.jpg
-    :scale: 100%
+.. image:: /images/Fuselage/TalonBoxInFuselage_SM.jpg
+    :target: /images/Fuselage/TalonBoxInFuselage.jpg
 
 Dry fit the fuselage sides to check that they fit well together, and do not have any excess foam that prevents them from connecting completely.
 Then try to dry fit the 3D printed Box assembly inside the fuselage halves as shown. Note the CF spar openings in the foam must be clear and be aligned with the holes in the 3D print.
 
-.. image:: /images/Fuselage/ForwardMotorMountInstall.jpg
-    :scale: 100%
+.. image:: /images/Fuselage/ForwardMotorMountInstall_SM.jpg
+    :target: /images/Fuselage/ForwardMotorMountInstall.jpg
 
 Insert the 3D printed Forward Motor Mount as shown, with the key hole pointing towards the bottom rudder wing.
 This needs to be pointing the correct way to ensure the motor cables can be routed through the motor mount afterwards.
@@ -73,13 +73,13 @@ Carefully place the other fuselage half over the 3D printed parts, check alignme
 Whilst holding the halves together use some tape to carefully wrap around the fuselage to keep it firmly together while the glue sets over a few hours or overnight.
 Take care not to leave any gaps in the fuselage seam as this will weaken the fuselage structure.
 
-.. image:: /images/Fuselage/GluedFuselage.jpg
-    :scale: 100%
+.. image:: /images/Fuselage/GluedFuselage_SM.jpg
+    :target: /images/Fuselage/GluedFuselage.jpg
 
 Make sure the rear motor mount is aligned, and the rudder halves and fuselage are glued and taped together to form one seamless piece.
 
-.. image:: /images/Fuselage/FuselageTape.jpg
-    :scale: 100%
+.. image:: /images/Fuselage/FuselageTape_SM.jpg
+    :target: /images/Fuselage/FuselageTape.jpg
 
 Step 4 - Attaching the Extra 3D parts
 ........................................
@@ -102,14 +102,14 @@ Wings
 Step 1 - Parts Preparation
 ...............................
 
-.. image:: /images/Wings/ServoCentreLockTight.jpg
-    :scale: 100%
+.. image:: /images/Wings/ServoCentreLockTight_SM.jpg
+    :target: /images/Wings/ServoCentreLockTight.jpg
 
 Use a servo tester to find the middle position of the servo, attach the horn at 90degrees corresponding to the wing or tail it will be used in.
 Use a very small drop Loctite to secure the servo horn screw into the servo. Repeat this for all the wing and tail servos (4x).
 
-.. image:: /images/Wings/WingServoCut.jpg
-    :scale: 100%
+.. image:: /images/Wings/WingServoCut_SM.jpg
+    :target: /images/Wings/WingServoCut.jpg
 
 **Do the following for both wings:**
 
@@ -121,8 +121,8 @@ Carefully cut it out with a sharp hobby knife so that the servo fit's snugly int
 
   (Use the marker to put a line on the hobby knife blade to the cut depth required)
 
-.. image:: /images/Wings/WingServoCableCutout.jpg
-    :scale: 100%
+.. image:: /images/Wings/WingServoCableCutout_SM.jpg
+    :target: /images/Wings/WingServoCableCutout.jpg
 
 To insert the cable into the wing foam seam use the hobby knife to cut along the seam at a depth of 5-6mm.
 Insert the Servo into the servo cutout and place the servo cable along the wing seam to find the location that the servo plug needs to be recessed into the wing and mark it.
@@ -131,8 +131,8 @@ Then cut it out to a depth of about 3mm, using multiple cuts at that depth to ea
 Step 2 - Assembling the Wing
 ...............................
 
-.. image:: /images/Wings/WingServoInstalled.jpg
-    :scale: 100%
+.. image:: /images/Wings/WingServoInstalled_SM.jpg
+    :target: /images/Wings/WingServoInstalled.jpg
 
 .. Tip::
   Use a 80-200 grit sandpaper to key the surfaces of the servo (make it rough) that will come in contact with the foam.
@@ -145,20 +145,20 @@ To secure the servo cable and connector use a piece of tape over the entire leng
 Step 3 - Assembling the Tail Wing
 ....................................
 
-.. image:: /images/Wings/TailServoCut.jpg
-    :scale: 100%
+.. image:: /images/Wings/TailServoCut_SM.jpg
+    :target: /images/Wings/TailServoCut.jpg
 
 Place the servo over the tail wing recess, mark and cutout the recess to make the servo fit snug in the tail wing.
 
-.. todo::
-   image:: /images/Wings/TailServoInstalled.jpg
+.. image:: /images/Wings/TailServoInstalled_SM.jpg
+    :target: /images/Wings/TailServoInstalled.jpg
 
 Slide the servo cable into the provided gap.
 To secure the servos use a piece of tape on either side of the servo making sure a gap remains to allow movement of the servo horn.
 
-.. todo::
-   image:: /images/Wings/ControlHorns.jpg
-    :scale: 100%
+
+.. image:: /images/Wings/ControlHorns_SM.jpg
+    :target: /images/Wings/ControlHorns.jpg
 
 After keying the control horns with sandpaper glue them into the provided recesses with the holes of the horn facing the servo.
 Attach the control rod and hardware as shown, however do not yet use Loctite to secure the control rod screw until the Full System Check has been completed.

@@ -35,14 +35,15 @@ Components Required
 Step 1 -  Pre-Assembling the Avionics Enclosure
 ................................................
 
-As always it's a good idea to make sure the 3D printed part fit first without any components installed.
+As always it's a good idea to make sure the 3D printed parts fit first without any components installed.
 
-.. image:: /images/AE/3DPrintAs.png
-    :scale: 100%
+.. image:: /images/AE/3DPrintAs_SM.jpg
+    :target: /images/AE/3DPrintAs.jpg
 
 Assemble the Avionics Enclosure (AE for short) Pi, RFD/Air and Center plate as follows, taking care to align the plastic and making the parts fit together seamlessly.
 
-.. image:: /images/AE/MountBallsCenter.jpg
+.. image:: /images/AE/MountBallsCenter_SM.jpg
+    :target: /images/AE/MountBallsCenter.jpg
 
 Insert the rubber isolation balls into the Avionics Center Plate as shown.
 
@@ -56,13 +57,13 @@ Step 2 - Assembling the Pi Avionics Enclosure
 Connect the Pi camera ribbon cable to the Pi Camera with the contacts of the ribbon cable facing the picamera PCB.
 
 .. image:: /images/AE/ServoMountCam_SM.jpg
-    .. target:: /images/AE/ServoMountCam.jpg
+    :target:: /images/AE/ServoMountCam.jpg
 
 Then ensure the slot on the Pi Camera Servo Mount is clear and insert the Pi Camera ribbon cable in the orientation as shown.
 (note this must be the correct way otherwise it will not connect to the Pi Zero connector properly)
 
 .. image:: /images/AE/ServoMountAs_SM.jpg
-    :scale: 100%
+    :target: /images/AE/ServoMountAs.jpg
 
 
 
@@ -71,8 +72,7 @@ Screw the servo to the mount using the screws provided with the servo.
 
 
 .. image:: /images/AE/ServoToPiAE_SM.jpg
-    :scale: 100%
-
+    :target: /images/AE/ServoToPiAE.jpg
 
 
 Insert the cables through the Pi AE as shown, attach the Camera Servo Mount to the Pi Avionics Enclosure using the M3 10mm screws, and route the cables internally as shown above.
@@ -80,8 +80,8 @@ Insert the cables through the Pi AE as shown, attach the Camera Servo Mount to t
 .. Note::
    The servo cable should be flat and routed in between the Pi Enclosure 3D printed screw risers and then towards the rear of the enclosure to the Pi Zero ribbon connector.
 
-.. image:: /images/AE/PiNHub.jpg
-    :scale: 100%
+.. image:: /images/AE/PiNHub_SM.jpg
+    :target: /images/AE/PiNHub.jpg
 
 
 .. Tip::
@@ -90,7 +90,8 @@ Insert the cables through the Pi AE as shown, attach the Camera Servo Mount to t
 Take the completed Pi and USB assembly constructed Pi Setup phase, place it into the Pi AE and attach it with the USB HUB supplied plastic or equivalent metal screws.
 Route the cables as shown.
 
-.. image:: /images/AE/PiAEToCenter.jpg
+.. image:: /images/AE/PiAEToCenter_SM.jpg
+    :target: /images/AE/PiAEToCenter.jpg
 
 
 2x image 1) route cables 1000  2) centerplate attached 1001
@@ -100,21 +101,24 @@ Route the two DF13 Cables as shown through the Center Plate and place Center pla
 Step 3 - Assembling the Air/RFD Avionics Enclosure
 ....................................................
 
-.. image:: /images/AE/AirAEComp.jpg
+.. image:: /images/AE/AirAEComp_SM.jpg
+    :target: /images/AE/AirAEComp.jpg
 
    4x Image 1) I2C 964 2) + Airspeed 965 3) + XSR 1009 4) +GPS 1010
 
 Insert I2C Hub into Air AE, then the Airspeed Sensor and XSR RC receiver (if used) with the binding button facing upwards as shown. Attach and route the two I2C cables, one between the Airspeed and I2C bus and one I2C cable to the outside of the enclosure via the opening under the XSR receiver.
 Route the XSR servo connector out through the opening under the XSR.
 
-.. image:: /images/AE/AirAECompGPS.jpg
+.. image:: /images/AE/AirAECompGPS_SM.jpg
+    :target: /images/AE/AirAECompGPS.jpg
 
    Image 1011
 
 Next insert the connectors of the GPS module on an angle through the top right opening of the Air AE.
 The 4pin  Connector plugs into the I2C hub and the 6 pin connector is routed out through the opening underneath the XSR.
 
-.. image:: /images/AE/AirAECompRFD.jpg
+.. image:: /images/AE/AirAECompRFD_SM.jpg
+    :target: /images/AE/AirAECompRFD.jpg
 
    Image 1012
 
@@ -129,14 +133,16 @@ Step 4 - Final Assembly of the Enclosure
 ....................................................
 
 
-.. image:: /images/AE/PiAEToAirAECable.jpg
+.. image:: /images/AE/PiAEToAirAECable_SM.jpg
+    :target: /images/AE/PiAEToAirAECable.jpg
 
    Make new picture!!
 
 Place the two DF13 cables through the opening of the Air AE next to the Airspeed Sensor back outside of the enclosure.
 
 
-.. image:: /images/AE/PiAEToAirAE.jpg
+.. image:: /images/AE/PiAEToAirAE_SM.jpg
+    :target: /images/AE/PiAEToAirAE.jpg
 
    image 1014
 
@@ -149,7 +155,8 @@ You can use two screws to hold the enclosure together while you organize the PXH
 It should look something like this:
 
 
-.. image:: /images/AE/AEAs.jpg
+.. image:: /images/AE/AEAs_SM.jpg
+    :target: /images/AE/AEAs.jpg
 
    make new image
 
@@ -158,8 +165,8 @@ Step 5 - Attaching and Connecting the Pixhawk
 ....................................................
 
 
-.. image:: /images/AE/AEPixhawk.jpg
-
+.. image:: /images/AE/AEPixhawk_SM.jpg
+    :target: /images/AE/AEPixhawk.jpg
    image 1016
 
 The Pixhawk can now be mounted using double sided foam tape, on the top of the Avionics Enclosure with Servo rail of the Pixhawk facing the same side as the RFD antennas.
@@ -168,7 +175,8 @@ The Pixhawk can now be mounted using double sided foam tape, on the top of the A
   Try to align the PXH straight onto the enclosure before sticking it in place
 
 
-.. image:: /images/AE/AEPixhawkCables.jpg
+.. image:: /images/AE/AEPixhawkCables_SM.jpg
+    :target: /images/AE/AEPixhawkCables.jpg
 
    image 1021
 
@@ -186,7 +194,8 @@ And in the middle:
  2) The speaker/Buzzer to the Buzzer
 
 
-.. image:: /images/AE/AEPixhawkCables2.jpg
+.. image:: /images/AE/AEPixhawkCables2_SM.jpg
+    :target: /images/AE/AEPixhawkCables2.jpg
 
 And then finally insert:
  1) the XSR Servo connector into RC IN
@@ -209,7 +218,7 @@ Then insert the other side of the balls into the 3D printed front and rear AE mo
 .. Note::
     The front of the Avionics Enclosure is the direction the arrow should pointing on the Pixhawk. The RFD antenna SMA connectors are on the rear of the enclosure.
 
-.. image:: /images/AE/FuseCut_sm.jpg
+.. image:: /images/AE/FuseCut_SM.jpg
     :target: /images/AE/FuseCut.jpg
 
 Use the 3D printed AE Screw Washers to mark the a circle where the foam needs to be recessed according to the dimensions on the photo above, and in the middle of the fuselage foam seam.

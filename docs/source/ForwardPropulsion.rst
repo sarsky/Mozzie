@@ -15,20 +15,19 @@ Be careful not to damage or bend the motor cables.
 
 Attach the motor to the motor mount using XX self tapping screws, whilst making sure the motor cables are not pinched or damaged.
 
-.. todo::
-   image:: /images/MountESC.jpg
-
+.. image:: /images/MountESC_SM.jpg
+    :target: /images/MountESC.jpg
 
 Orientate the ESC and attach to fuselage using some Velcro, cable clips or ESC Air scoop (which needs to be cut out of the foam in the right position so the ESC can be placed in it)
 
-.. todo::
-   image:: /images/MountLoom.jpg
+.. image:: /images/MountLoom_SM.jpg
+    :target: /images/MountLoom.jpg
 
 Install the Mozzie Power Loom into the fuselage on the right hand side making sure the front ESC XT30 plugs are facing forwards (that's the two that are directly connected to the middle of the loom and fork at the XT30's)
 Use self adhesive cable clips, cable ties and cable wrap to attach the cables in the correct position directly against side of the fuselage, in such a way that the cables are not taught, caught or damaged.
 
-.. todo::
-   image:: /images/MountUBEC.jpg
+.. image:: /images/MountUBEC_SM.jpg
+    :target: /images/MountUBEC.jpg
 
 Attach the two UBECs into the two nooks in the side of the fuselage as shown with Velcro.
 
