@@ -157,8 +157,5 @@ Slide the servo cable into the provided gap.
 To secure the servos, use a piece of tape on either side of the servo, making sure a gap remains to allow movement of the servo horn.
 
 
-.. image:: /images/Wings/ControlHorns_SM.jpg
-    :target: /images/Wings/ControlHorns.jpg
-
 After keying the control horns with sandpaper, glue them into the provided recesses with the holes of the horn facing the servo.
 Attach the control rod and hardware as shown; however, do not yet use Loctite to secure the control rod screw until the Full System Check has been completed.

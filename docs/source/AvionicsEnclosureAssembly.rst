@@ -37,8 +37,8 @@ Step 1 -  Pre-Assembling the Avionics Enclosure
 
 As always it's a good idea to make sure the 3D printed parts fit first without any components installed.
 
-.. image:: /images/AE/3DPrintAs_SM.jpg
-    :target: /images/AE/3DPrintAs.jpg
+.. image:: /images/AE/3DPrintAs_SM.png
+    :target: /images/AE/3DPrintAs.png
 
 Assemble the Avionics Enclosure (AE for short) Pi, RFD/Air and Center plate as follows, taking care to align the plastic and making the parts fit together seamlessly.
 
@@ -57,15 +57,13 @@ Step 2 - Assembling the Pi Avionics Enclosure
 Connect the Pi camera ribbon cable to the Pi Camera with the contacts of the ribbon cable facing the picamera PCB.
 
 .. image:: /images/AE/ServoMountCam_SM.jpg
-    :target:: /images/AE/ServoMountCam.jpg
+    :target: /images/AE/ServoMountCam.jpg
 
 Then ensure the slot on the Pi Camera Servo Mount is clear and insert the Pi Camera ribbon cable in the orientation as shown.
 (note this must be the correct way otherwise it will not connect to the Pi Zero connector properly)
 
 .. image:: /images/AE/ServoMountAs_SM.jpg
     :target: /images/AE/ServoMountAs.jpg
-
-
 
 Insert the Servo plug into the Camera Servo Mount as shown, making sure there are no twists in the cable so the Servo fits seamlessly into the mount.
 Screw the servo to the mount using the screws provided with the servo.
@@ -74,7 +72,6 @@ Screw the servo to the mount using the screws provided with the servo.
 .. image:: /images/AE/ServoToPiAE_SM.jpg
     :target: /images/AE/ServoToPiAE.jpg
 
-
 Insert the cables through the Pi AE as shown, attach the Camera Servo Mount to the Pi Avionics Enclosure using the M3 10mm screws, and route the cables internally as shown above.
 
 .. Note::
@@ -82,7 +79,6 @@ Insert the cables through the Pi AE as shown, attach the Camera Servo Mount to t
 
 .. image:: /images/AE/PiNHub_SM.jpg
     :target: /images/AE/PiNHub.jpg
-
 
 .. Tip::
   Use a M2.5 12mm metal screw to thread the 3D printed extrusions prior to using plastic screws to attach the Pi to the enclosure.
@@ -94,8 +90,6 @@ Route the cables as shown.
     :target: /images/AE/PiAEToCenter.jpg
 
 
-2x image 1) route cables 1000  2) centerplate attached 1001
-
 Route the two DF13 Cables as shown through the Center Plate and place Center plate on Pi AE.
 
 Step 3 - Assembling the Air/RFD Avionics Enclosure
@@ -104,7 +98,6 @@ Step 3 - Assembling the Air/RFD Avionics Enclosure
 .. image:: /images/AE/AirAEComp_SM.jpg
     :target: /images/AE/AirAEComp.jpg
 
-   4x Image 1) I2C 964 2) + Airspeed 965 3) + XSR 1009 4) +GPS 1010
 
 Insert I2C Hub into Air AE, then the Airspeed Sensor and XSR RC receiver (if used) with the binding button facing upwards as shown. Attach and route the two I2C cables, one between the Airspeed and I2C bus and one I2C cable to the outside of the enclosure via the opening under the XSR receiver.
 Route the XSR servo connector out through the opening under the XSR.
@@ -112,7 +105,6 @@ Route the XSR servo connector out through the opening under the XSR.
 .. image:: /images/AE/AirAECompGPS_SM.jpg
     :target: /images/AE/AirAECompGPS.jpg
 
-   Image 1011
 
 Next insert the connectors of the GPS module on an angle through the top right opening of the Air AE.
 The 4pin  Connector plugs into the I2C hub and the 6 pin connector is routed out through the opening underneath the XSR.
@@ -120,7 +112,6 @@ The 4pin  Connector plugs into the I2C hub and the 6 pin connector is routed out
 .. image:: /images/AE/AirAECompRFD_SM.jpg
     :target: /images/AE/AirAECompRFD.jpg
 
-   Image 1012
 
 The RFD900 module cable can the be routed through the Airspeed sensor side opening, and can be placed with the antenna plugs through the enclosure and clipped into place.
 (The extra space in the Air/RFD AE can also be used to connect a secondary 3DR modem if required. For example for 433MHz)
@@ -138,13 +129,11 @@ Step 4 - Final Assembly of the Enclosure
 
    Make new picture!!
 
-Place the two DF13 cables through the opening of the Air AE next to the Airspeed Sensor back outside of the enclosure.
+Place the two DF13 cables through the opening of the Air AE next to the Airspeed Sensor back to the outside of the enclosure.
 
 
 .. image:: /images/AE/PiAEToAirAE_SM.jpg
     :target: /images/AE/PiAEToAirAE.jpg
-
-   image 1014
 
 Carefully place the Air AE over the Center Plate making sure that the cables are clear of the contact areas and are long enough to reach their respective PXH connectors.
 You can use two screws to hold the enclosure together while you organize the PXH connectors.
@@ -153,7 +142,6 @@ You can use two screws to hold the enclosure together while you organize the PXH
   Some cables might be longer than necessary so if required the extra length can be contained in the enclosure to make the cable management neater.
 
 It should look something like this:
-
 
 .. image:: /images/AE/AEAs_SM.jpg
     :target: /images/AE/AEAs.jpg
@@ -167,7 +155,7 @@ Step 5 - Attaching and Connecting the Pixhawk
 
 .. image:: /images/AE/AEPixhawk_SM.jpg
     :target: /images/AE/AEPixhawk.jpg
-   image 1016
+
 
 The Pixhawk can now be mounted using double sided foam tape, on the top of the Avionics Enclosure with Servo rail of the Pixhawk facing the same side as the RFD antennas.
 
@@ -177,8 +165,6 @@ The Pixhawk can now be mounted using double sided foam tape, on the top of the A
 
 .. image:: /images/AE/AEPixhawkCables_SM.jpg
     :target: /images/AE/AEPixhawkCables.jpg
-
-   image 1021
 
 The cables can now be connected to the Pixhawk as follows:
 
@@ -238,3 +224,6 @@ Carefully use the M4 20mm screw to attach the Rear Mount and the 28mm screw to a
 whilst ensuring the camera gimbal is free to move in the foam cutout, and the Avionics Enclosure is aligned in the fuselage.
 
 Finally tighten the screws so the mounts cannot rotate and they partially compress the foam.
+
+.. image:: /images/AE/AEInstalled_SM.jpg
+    :target: /images/AE/AEInstalled.jpg
