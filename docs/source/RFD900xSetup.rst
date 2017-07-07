@@ -39,8 +39,8 @@ The easiest way to connect the RFD900x to the Pixhawk is using a pre-assembled `
 .. image:: /images/AE/RFD900xWiring_SM.jpg
       :target: /images/AE/RFD900xWiring.jpg
 
-.. image:: /images/AE/RFD_Pins_SM.jpg
-      :target: /images/AE/RFD_Pins.jpg
+.. image:: /images/AE/RFD_Pins.jpg
+
 
 
 Connecting the RFD900 to Computer

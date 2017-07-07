@@ -55,7 +55,7 @@ Pixhawk Wiring
 
 As described in the Avionics Assembly section the Pixhawk wiring should be connected as per the following schematic:
 
-.. image:: .... image:: images/PXH_Wiring_SM.jpg
+.. image:: images/PXH_Wiring_SM.jpg
         :target: images/PXH_wiring.jpg
 
 .. Tip::

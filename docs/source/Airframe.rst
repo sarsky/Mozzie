@@ -63,8 +63,8 @@ Then try to dry fit the 3D printed Box assembly inside the fuselage halves as sh
 Insert the 3D printed Forward Motor Mount as shown, with the key hole pointing towards the bottom rudder wing.
 This needs to be pointing the correct way to ensure the motor cables can be routed through the motor mount afterwards.
 
-.. todo::
-   image:: /images/Fuselage/TalonFuselageGlue.jpg
+.. image:: /images/Fuselage/TalonFuselageGlue_SM.jpg
+     :target: /images/Fuselage/TalonFuselageGlue.jpg
 
 Once you are comfortable that all the parts fit together without glue, then UHU glue one side of the Talon Box into the fuselage as well as the Forward Motor Mount (check the orientation!).
 Then carefully run a bead of glue around the entire perimeter of the fuselage and over the area of the rear rudder,
