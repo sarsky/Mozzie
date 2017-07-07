@@ -122,7 +122,7 @@ For this we are using a simple XT60 plug that is inserted into Power Loom to clo
       :target: images/AE/PowerKey.jpg
 
 To install the Power Key 3D print, use it to score and mark the position you would like to install the key on the fuselage, making sure that the power loom cable can reach that location and the 3D print can fit against the foam smoothly.
-Cut out the foam smaller than the 3D print so that the print fits snuggly into the fuselage.
+Cut out the foam smaller than the 3D print so that the print fits snugly into the fuselage.
 Find the correct XT60 connector of the power loom, where the power key is meant to be inserted, and glue that XT60 into the Power Key 3D print, making sure the glue does not block the connector.
 Wait until the glue sets and then glue the 3D print into the foam fuselage cutout.
 
@@ -136,7 +136,7 @@ Safety Switch
 
 To install the Safety Switch into the fuselage, find a location on the fuselage that gives you safe access to the safety switch away from the propellers
 and is also within reach of the cable length of the safety switch.
-Then carefully mark that location and cut out the fuselage foam with a hobby knife to a diameter that is smaller than the Safety Switch 3D print, so it fits snuggly into the foam.
+Then carefully mark that location and cut out the fuselage foam with a hobby knife to a diameter that is smaller than the Safety Switch 3D print, so it fits snugly into the foam.
 
 .. Tip::
   It is advisable to avoid mounting the switch in the foam lid, as the safety switch wire will fatigue and break over time, and also impair access to the inside of the airframe for placing the battery etc.
