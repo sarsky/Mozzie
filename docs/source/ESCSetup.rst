@@ -39,5 +39,5 @@ Once you are certain the settings are correct use the "Write Setup" button to wr
 Finally read the parameters back to confirm they were written correctly and then disconnect the ESC servo wire, and repeat the process for all the quad ESCs.
 
 
-.. image:: /images/BLHeli_Setup_SM.jpg
+.. image:: /images/Propulsion/BLHeli_Setup_SM.jpg
     :target: /images/BLHeli_Setup.jpg

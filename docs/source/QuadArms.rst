@@ -18,8 +18,8 @@ Parts Required
 Step 1 - Soldering the Motor and ESC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: images/QuadArmSolder_SM.jpg
-        :target: images/QuadArmSolder.jpg
+.. image:: images/Propulsion/QuadArmSolder_SM.jpg
+        :target: images/Propulsion/QuadArmSolder.jpg
 
 Because of the compact lightweight design of the quad arms some care must be taken with their construction and assembly.
 Their disassembly only requires the removal of the heatshrink and the motor screws.
@@ -69,8 +69,8 @@ Use the middle mark to align the middle pieces symmetrically and use the end of 
   Normally only two holes need to be drilled into the CF bar.
 
 
-.. image:: images/QuadArmDry_SM.jpg
-        :target: images/QuadArmDry.jpg
+.. image:: images/Propulsion/QuadArmDry_SM.jpg
+        :target: images/Propulsion/QuadArmDry.jpg
 
 
 Then remove the 3D motor mounts and dry test fit the quad motors onto them to make sure they still fit.
@@ -93,8 +93,8 @@ To make sure the motor is mounted correctly it is necessary to drill the screw h
 Slide all the 3D printed parts onto the CF bar as shown in Step 2, into the desired location with the correct orientation and placement.
 Use a sacrificial 3D printed motor mount or timber wedge with the right angle as follows to get the correct drill angle, and then very slowly drill 3mm holes using a drill press if possible.
 
-.. image:: images/QuadArmDrill_SM.jpg
-        :target: images/QuadArmDrill.jpg
+.. image:: images/Propulsion/QuadArmDrill_SM.jpg
+        :target: images/Propulsion/QuadArmDrill.jpg
 
 Ensure the 3D printed middle parts are centered and carefully drill two 4mm holes through the CF bar using the 3D print as a guide.
 After cleaning and deburring all the newly drilled holes, carefully screw the motors onto the mounts and CF bar, and check to see if the motors can spin freely whilst attached to the mount.
@@ -105,8 +105,8 @@ Step 4 - Quad Arm Assembly
 
 Once all the motor tolerances are checked take off the motors and check all the components before final assembly.
 
-.. image:: images/QuadArmAssembly_SM.jpg
-        :target: images/QuadArmAssembly.jpg
+.. image:: images/Propulsion/QuadArmAssembly_SM.jpg
+        :target: images/Propulsion/QuadArmAssembly.jpg
 
 Cut two 135mm long pieces of 16mm diameter heatshrink and slide the heatshrink over the XT30 and servo cables of the ESC up to the motor. Then slide the heatshrink and the ESC over the CF bar.
 
@@ -116,8 +116,8 @@ Align the cables and ESC along the CF bar and try to keep the cables to the fron
 
 The finished quad arm should look like this:
 
-.. image:: images/QuadArmFinish_SM.jpg
-        :target: images/QuadArmFinish.jpg
+.. image:: images/Propulsion/QuadArmFinish_SM.jpg
+        :target: images/Propulsion/QuadArmFinish.jpg
 
 .. Tip::
   The hot air gun can be very hot, be careful not to hold in one place for very long and gradually go along the length of the heatshrink until it becomes taught around the Quad arm.
@@ -133,8 +133,8 @@ Mark the screw holes and rectangular cable penetrations on the 3D printed middle
 Carefully cut the foam all the way through to the inside of the fuselage so that the cables can be routed internally to the power loom,
 and that the servo cables can be routed to the Pixhawk from the quad arms. Only drill small holes through the foam for the screws so that the screws are not loose in the foam.
 
-.. image:: images/QuadArmComplete_SM.jpg
-        :target: images/QuadArmComplete.jpg
+.. image:: images/Propulsion/QuadArmComplete_SM.jpg
+        :target: images/Propulsion/QuadArmComplete.jpg
 
 Use the 20mm long M4 screws for the front quad arm and the 30mm M4 screws for attaching the rear quad arm.
 
