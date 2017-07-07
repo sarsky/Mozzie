@@ -155,8 +155,8 @@ For the blood sample, the challenge rules require a tube 100mm long and 20mm wid
 We used a Berocca tube (similar to a Smarties tube) with about the right dimensions, but any lightweight tube of similar dimensions should suffice to contain the sample.
 Adding extra padding to reduce the likelihood of breaking the vial is optional.
 
-.. image:: images/SampleTube_SM.jpg
-      :target: images/SampleTube.jpg
+.. image:: images/Fuselage/SampleTube_SM.jpg
+      :target: images/Fuselage/SampleTube.jpg
 
 First cut the Berocca tube to the right length so that it just clears the height of the foam lid whilst standing on the 3D printed cap. This should be about XXmm long.
 It can also be partially recessed into the foam lid to make it more streamlined; however, ensure that it is easy to both remove the Berocca tube cap and that it secures properly, to avoid the sample falling out.

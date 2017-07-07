@@ -37,18 +37,13 @@ Step 1 -  Pre-Assembling the Avionics Enclosure
 
 As always it's a good idea to make sure the 3D printed parts fit first without any components installed.
 
-.. image:: /images/AE/3DPrintAs_SM.png
+.. image:: /images/AE/3DPrintAs_SM.jpg
     :target: /images/AE/3DPrintAs.png
 
 Assemble the Avionics Enclosure (AE for short) Pi, RFD/Air and Center plate as follows, taking care to align the plastic and making the parts fit together seamlessly.
 
-.. image:: /images/AE/MountBallsCenter_SM.jpg
-    :target: /images/AE/MountBallsCenter.jpg
-
-Insert the rubber isolation balls into the Avionics Center Plate as shown.
-
-.. tip::
-  To mount the rubber balls into the mounts and enclosure center plate insert them on one side first then carefully pull the rubber ring through the hole until the rubber is flush all the way around the hole.
+.. image:: /images/AE/3DPrintAsDry_SM.jpg
+    :target: /images/AE/3DPrintAsDry.jpg
 
 
 Step 2 - Assembling the Pi Avionics Enclosure
@@ -198,8 +193,15 @@ The last thing to do is route the XSR Antenna's through the top opening and thro
 Step 6 - Installing the Avionics into the Fuselage
 ......................................................
 
-Insert the M4 locking nuts into the recess provided in the 3D printed Front and Rear Mounts. If not already done in Step 1, install the damping balls on the Avionics Enclosure into the four large holes of the 3D printed Base plate.
+Insert the M4 locking nuts into the recess provided in the 3D printed Front and Rear Mounts. Install the damping balls on the Avionics Enclosure into the four large holes of the 3D printed Base plate.
 Then insert the other side of the balls into the 3D printed front and rear AE mount. The Front mount is higher than the Rear mount.
+
+.. image:: /images/AE/MountBallsCenter_SM.jpg
+    :target: /images/AE/MountBallsCenter.jpg
+
+.. tip::
+    To mount the rubber balls into the mounts and enclosure center plate insert them on one side first then carefully pull the rubber ring through the hole until the rubber is flush all the way around the hole.
+
 
 .. Note::
     The front of the Avionics Enclosure is the direction the arrow should pointing on the Pixhawk. The RFD antenna SMA connectors are on the rear of the enclosure.
