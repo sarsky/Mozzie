@@ -138,7 +138,7 @@ and that the servo cables can be routed to the Pixhawk from the quad arms. Only 
 
 Use the 20mm long M4 screws for the front quad arm and the 30mm M4 screws for attaching the rear quad arm.
 
-Place the 3D printed Undermount into the fuselage directly under the quadarms and then loosely screw it together until the screws are attached to the nuts.
+Insert and glue the M4 locking nuts into Undermount recess provided. Place the 3D printed Undermount into the fuselage directly under the quadarms and then loosely screw it together until the screws are attached to the nuts.
 
 .. Tip::
   Use the left over piece of CF bar and attach it to the Undermount using some velcro tape to place it under the screws in the fuselage.

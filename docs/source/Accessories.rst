@@ -97,6 +97,10 @@ If using a USB mobile data modem, placement of the antenna in flight is likely t
 Due to the compact nature of the Mozzie, it is only some 250mm high overall, so it's not possible to mount a mobile antenna on the Mozzie that will work effectively on the ground;
 however, it should perform quite well whilst in flight if it is placed in the front nose of the aircraft, in front of the battery.
 
+.. image:: images/AE/3GModem_SM.jpg
+      :target: images/AE/3GModem.jpg
+
+
 LED Status Strip
 ...................
 
@@ -105,7 +109,7 @@ The LED bar shows the current status of the Flight Controller (Pixhawk) as follo
  * Red is armed
  * Slow pulsing shows the flight controller heartbeat (which also indicates that the CC has booted correctly and that mavproxy is forwarding mavlink messages from the FC).
 
-
+The LED strip needs to be mounted on the top side of the fuselage for easy visibility. It can be mounted using the 3D Printed LED
 
 Power Key
 ............

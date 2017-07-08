@@ -13,9 +13,6 @@ Avionics Enclosure Assembly
  - Pi Camera Servo Mount
  - Pi Camera Holder
 
-.. Tip::
-    Not all 3D parts come off the printer in perfect condition. Before assembling or gluing any 3D printed parts ensure that the parts all fit together by carefully removing any excess plastic from the print and seeing if they dry fit together first!
-
 
 Components Required
  - Airspeed Sensor
@@ -35,6 +32,9 @@ Components Required
 Step 1 -  Pre-Assembling the Avionics Enclosure
 ................................................
 
+.. Tip::
+    Not all 3D parts come off the printer in perfect condition. Before assembling or gluing any 3D printed parts ensure that the parts all fit together by carefully removing any excess plastic from the print and seeing if they dry fit together first!
+
 As always it's a good idea to make sure the 3D printed parts fit first without any components installed.
 
 .. image:: /images/AE/3DPrintAs_SM.jpg
@@ -42,14 +42,14 @@ As always it's a good idea to make sure the 3D printed parts fit first without a
 
 Assemble the Avionics Enclosure (AE for short) Pi, RFD/Air and Center plate as follows, taking care to align the plastic and making the parts fit together seamlessly.
 
-.. image:: /images/AE/3DPrintAsDry_SM.jpg
-    :target: /images/AE/3DPrintAsDry.jpg
-
 
 Step 2 - Assembling the Pi Avionics Enclosure
 .................................................
 
-Connect the Pi camera ribbon cable to the Pi Camera with the contacts of the ribbon cable facing the picamera PCB.
+Carefully pull out the black plastic locking mechanism 1mm on the Pi Camera connector and insert the Pi camera ribbon cable to the Pi Camera with the contacts of the ribbon cable facing the Picamera PCB.
+Then lock the ribbon cable in place by sliding the black plastic back in whilst the ribbon cable is fully inserted.
+Make sure the slot for the pi camera ribbon cable in the Pi Camera Servo Mount3D print is clear
+and carefully test that the ribbon cable can be inserted through the slot.
 
 .. image:: /images/AE/ServoMountCam_SM.jpg
     :target: /images/AE/ServoMountCam.jpg
@@ -101,8 +101,8 @@ Route the XSR servo connector out through the opening under the XSR.
     :target: /images/AE/AirAECompGPS.jpg
 
 
-Next insert the connectors of the GPS module on an angle through the top right opening of the Air AE.
-The 4pin  Connector plugs into the I2C hub and the 6 pin connector is routed out through the opening underneath the XSR.
+Next insert the connectors of the GPS module on an angle through the top left opening of the Air AE.
+The GPS 4pin Connector plugs into the I2C hub and the 6 pin connector is routed out through the opening underneath the XSR.
 
 .. image:: /images/AE/AirAECompRFD_SM.jpg
     :target: /images/AE/AirAECompRFD.jpg
@@ -115,7 +115,7 @@ The RFD900 module cable can the be routed through the Airspeed sensor side openi
   Make sure that various cables are routed correctly, and are not taut, or caught between components.
 
 
-Step 4 - Final Assembly of the Enclosure
+Step 4 - Assembly of the Enclosure
 ....................................................
 
 
@@ -124,25 +124,18 @@ Step 4 - Final Assembly of the Enclosure
 
    Make new picture!!
 
-Place the two DF13 cables through the opening of the Air AE next to the Airspeed Sensor back to the outside of the enclosure.
+Route the two DF13 cables from the PiAE enclosure through the opening of the Air AE next to the Airspeed Sensor and back to the outside of the enclosure.
+These will need to plugged into the Pixhawk later.
 
 
 .. image:: /images/AE/PiAEToAirAE_SM.jpg
     :target: /images/AE/PiAEToAirAE.jpg
 
 Carefully place the Air AE over the Center Plate making sure that the cables are clear of the contact areas and are long enough to reach their respective PXH connectors.
-You can use two screws to hold the enclosure together while you organize the PXH connectors.
+You can use two screws to hold the enclosure together while you organize the PXH connectors and check cable lengths.
 
-.. Note::
+.. Tip::
   Some cables might be longer than necessary so if required the extra length can be contained in the enclosure to make the cable management neater.
-
-It should look something like this:
-
-.. image:: /images/AE/AEAs_SM.jpg
-    :target: /images/AE/AEAs.jpg
-
-   make new image
-
 
 Step 5 - Attaching and Connecting the Pixhawk
 ....................................................
@@ -185,7 +178,7 @@ And then finally insert:
 
 The last thing to do is route the XSR Antenna's through the top opening and through the Antenna holder tubes. (Heat shrink the antenna cables once attached to the enclosure to strengthen the frail cables against damage)
 
-.. Note::
+.. Caution::
    The Front Pi LED servo connector that comes from the Pi Zero header should never be inserted into the Pixhawk or any standard servo connector as it is not compatible and can only be used with the LED strip as specified.
    Do not use this connector for anything else otherwise the Pi IO might be damaged.
 
@@ -193,11 +186,15 @@ The last thing to do is route the XSR Antenna's through the top opening and thro
 Step 6 - Installing the Avionics into the Fuselage
 ......................................................
 
-Insert the M4 locking nuts into the recess provided in the 3D printed Front and Rear Mounts. Install the damping balls on the Avionics Enclosure into the four large holes of the 3D printed Base plate.
+Insert the M4 locking nuts into the recess provided in the 3D printed Front and Rear Mounts.
+The locking nuts can also be glued in if they are loose in the 3D Print, just keep the nut thread clear of glue.
+Install the damping balls on the Avionics Enclosure into the four large holes of the 3D printed Base plate.
 Then insert the other side of the balls into the 3D printed front and rear AE mount. The Front mount is higher than the Rear mount.
 
 .. image:: /images/AE/MountBallsCenter_SM.jpg
     :target: /images/AE/MountBallsCenter.jpg
+
+*Picture for damping ball setup illustration only.
 
 .. tip::
     To mount the rubber balls into the mounts and enclosure center plate insert them on one side first then carefully pull the rubber ring through the hole until the rubber is flush all the way around the hole.
@@ -213,7 +210,7 @@ Use the 3D printed AE Screw Washers to mark the a circle where the foam needs to
 Use a hobby knife to only recess a cone shape for the washers into the foam so that they fit flush to the outside. Do not cut all the way through the fuselage foam!
 Then hot glue the 3D printed Screw Washers in place, making sure they are straight and flush with the underside of the fuselage.
 
-Then mark the cutout for the camera gimbal as shown on the photo above. Try to keep the dimensions of the cutout about 2-3mm larger than the Camera gimbal itself and not too much larger.
+Then mark the cutout for the camera gimbal as shown on the photo above. Try to keep the dimensions of the cutout as close as possible and only about 2-3mm larger than the Camera gimbal itself.
 
 .. Tip::
   Once the AE is installed the camera gimbal should be able to freely move inside the foam cutout, so that it is only attached by the enclosures damping ball system and does not touch anywhere else.
