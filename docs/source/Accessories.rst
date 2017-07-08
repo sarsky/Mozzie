@@ -105,11 +105,21 @@ LED Status Strip
 ...................
 
 The LED bar shows the current status of the Flight Controller (Pixhawk) as follows:
+
+It is connected via the Pi LED servo connector.
+
+.. Caution::
+  The Front Pi LED servo connector that comes from the Pi Zero header should never be inserted into the Pixhawk or any standard servo connector as it is not compatible
+  and can only be used with the LED strip as specified. Do not use this connector for anything else otherwise the Pi IO might be damaged.
+
  * Green is disarmed
  * Red is armed
- * Slow pulsing shows the flight controller heartbeat (which also indicates that the CC has booted correctly and that mavproxy is forwarding mavlink messages from the FC).
+ * Slow pulsing shows the flight controller heartbeat (which also indicates that the CC has booted correctly and that mavproxy is forwarding mavlink messages from the PXH).
 
-The LED strip needs to be mounted on the top side of the fuselage for easy visibility. It can be mounted using the 3D Printed LED
+The LED strip should to be mounted on the top side of the fuselage for easy visibility. It can be mounted using the 3D Printed LED Holder part.
+
+.. image:: images/AE/LEDBar_SM.jpg
+      :target: images/AE/LEDBar.jpg
 
 Power Key
 ............

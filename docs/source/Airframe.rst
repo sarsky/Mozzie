@@ -81,7 +81,7 @@ Make sure the rear motor mount is aligned, and the rudder halves and fuselage ar
 .. image:: /images/Fuselage/FuselageTape_SM.jpg
     :target: /images/Fuselage/FuselageTape.jpg
 
-Step 4 - Attaching the Extra 3D parts
+Step 3 - Attaching the Extra 3D parts
 ........................................
 
 The 3D printed Front Skid is a useful option for the aircraft as it allows you to use it for Mozzie bungee launches.
@@ -111,7 +111,8 @@ Use a very small drop Loctite to secure the servo horn screw into the servo. Rep
 .. image:: /images/Wings/WingServoCut_SM.jpg
     :target: /images/Wings/WingServoCut.jpg
 
-**Do the following for both wings:**
+.. Note::
+   **Do the following for both wings:**
 
 To place the servos on the wing and tail cutouts, they need to be cut out to make them fit.
 Place the servo over the wing cutout for the servo and mark the servo size using a marker.

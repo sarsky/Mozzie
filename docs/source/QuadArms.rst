@@ -40,7 +40,7 @@ This ensures the cables are flat on the bar when they are heatshrinked onto the 
 
 Use the hot air gun to carefully heatshrink each solder joint.
 
-.. Tip::
+.. Caution::
   The hot air gun can be very hot, be careful not to hold in one place for very long and gradually go along the length of the heatshrink until it becomes taught around the cables or connector.
   Avoid heating the ESC and motors directly for prolonged periods. Keep hands and flammable items well clear! (including the aircraft foam parts!!)
 
