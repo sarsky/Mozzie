@@ -17,7 +17,7 @@ Purchase List
 ^^^^^^^^^^^^^
 
 .. note::
-  If possible, please use the affiliate product links provided for Banggood and Hobbyking to purchase the components, as that will help support the further development of the Mozzie platform at no cost whatsoever to you.
+  If possible, please use the affiliate product links provided for Banggood and Hobbyking to purchase the components, as that will help support the further development of the Mozzie platform at no extra cost to you.
 
 
 ====================  =================================== ========== ======== ======================================
@@ -28,11 +28,11 @@ Purchase List
 |                     M4 Screws                                          6      1x20mm, 1x28mm, 2x 25mm, 2x 40mm
 **Propulsion**        QP Motor Cobra 2207 2300              31g ea.      4     `Banggood <http://www.banggood.com/Cobra-Champion-Series-2207-CP2207-2300KV-2450KV3-5S-Brushless-Motor-For-250-260-280-FPV-Racing-Frame-p-1108143.html?rmmds=search>`__
 |                     QP ESC ZTW Spider Pro HV 30A F390      6g          4     `Bolt RC <https://boltrc.com.au/index.php?id_product=127&controller=product>`__
-|                     Fwd Motor Cobra C-2814/16 Kv 1050    107g          1     `Innov8tive <http://innov8tivedesigns.com/parts/brushless-motors/cobra-c-2814-16-brushless-motor-kv-1050>`__
+|                     Fwd Motor Cobra C-2814/16 Kv 1050     107g         1     `Innov8tive <http://innov8tivedesigns.com/parts/brushless-motors/cobra-c-2814-16-brushless-motor-kv-1050>`__
 |                     ZTW 40A ESC                           50g          1     link
 |                     Prop Aeronaut 10x8                                 1     `PerthRC <http://www.perthrc.com.au/folding-prop-10x8.html>`__
 |                     Spinner Bar Aeronaut                               1     `PerthRC <http://www.perthrc.com.au/spinner-bar-42mm-0-degrees.html>`__
-**Electrics**         Battery MultiStar LiHV 4S 10Ah       794g          1     `HobbyKing <https://hobbyking.com/en_us/multistar-lihv-high-capacity-4s-10000mah-multi-rotor-lipo-pack.html>`__
+**Electronics**       Battery MultiStar LiHV 4S 10Ah        794g         1     `HobbyKing <https://hobbyking.com/en_us/multistar-lihv-high-capacity-4s-10000mah-multi-rotor-lipo-pack.html>`__
 |                     UBEC ZTW 6A                           12g          2     `Banggood <http://www.banggood.com/ZTW-10A-BEC-UBEC-Universal-Battery-Eliminator-Circuit-For-RC-Models-p-989402.html?rmmds=search>`__
 |                     XT60 Connectors (5 pairs                           1     `Banggood <http://www.banggood.com/5X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-916559.html?rmmds=search>`__
 |                     XT30 Connectors (10 Pairs)                         1     `Banggood <http://www.banggood.com/10X-Amass-XT30-UPB-2mm-Plug-Male-Female-Bullet-Connectors-Plugs-For-PCB-p-1063274.html?rmmds=search>`__
@@ -47,11 +47,11 @@ Purchase List
 |                     Servo ext. cables Long
 |                     Servo ext. cables Short
 |                     Screws                                                   Countersunk Screws M3 4x10mm, 4x18mm. M2.5 4x12mm
-|                     Damping Balls                                      4    `HobbyKing <https://hobbyking.com/en_us/vibration-damping-ball-50gram-8-pcs-bag.html`_
+|                     Damping Balls                                      4    `HobbyKing <https://hobbyking.com/en_us/vibration-damping-ball-50gram-8-pcs-bag.html>`_
 **Comms & RC**        RFD900x (1 Air & 1 Ground req) **      12g         2    `RFD Aus <http://store.rfdesign.com.au/rfd-900x-modem/>`__
 |                     Pixhawk to RFD900x Cable                2g         1    `RFD Aus <http://store.rfdesign.com.au/pixhawk-to-rfd900-telemetry-cable-300mm/>`_
 |                     USB to FTDI Cable                      50g         1    `RFD Aus <http://store.rfdesign.com.au/ftdi-cable-3-3v/>`_
-|                     Antenna 900MHz 3dBi Dipole (RPSMA)     21g         2    `RFD Aus <http://store.rfdesign.com.au/antenna-900mhz-3dbi-dipole-rpsma/`_
+|                     Antenna 900MHz 3dBi Dipole (RPSMA)     21g         2    `RFD Aus <http://store.rfdesign.com.au/antenna-900mhz-3dbi-dipole-rpsma/>`_
 |                     Foil Antenna 300mm (or 500mm)           7g         2    `RFD Aus <http://store.rfdesign.com.au/rfdflex1-900mhz-flexible-pcb-antenna-300mm-rpsma/>`__
 |                     FrSKy XSR                               4g         1    `Banggood <http://www.banggood.com/FrSky-XSR-2_4GHz-16CH-ACCST-Receiver-S-Bus-CPPM-Output-Support-X9D-X9E-X9DP-X12S-X-Series-p-1031481.html?rmmds=search>`__
 **Servos**            Corona DS-929MG                        12g ea.     5    `HobbyKing <https://hobbyking.com/en_us/corona-digital-servo-2-2kg-0-11sec-12-5g.html>`__
@@ -64,11 +64,11 @@ Purchase List
 ====================  =================================== ========== ======== ======================================
 
 .. Note::
-  ** All RF equipment, antennas and radios should be thoroughly range tested on each aircraft and base station setup. Please see the respective build sections prior to purchasing for more details.
+   All RF equipment, antennas and radios should be thoroughly range tested on each aircraft and base station setup. Please see the respective build sections prior to purchasing for more details.
 
 .. tip::
 
-   Notes on purchasing:
+   When purchasing:
     * Talon ships from BG in single units via EMS.
     * Batteries have limited shipping methods due to safety so try to shop locally for these if you can.
 
