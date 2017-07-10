@@ -23,3 +23,13 @@ The Mozzie
    Avionics
    Propulsion
    Accessories
+
+
+.. toctree::
+   :caption: Flying the Mozzie
+   :hidden:
+
+   FullSystemsCheck
+   PreFlight
+   FirstFlight
+   Operations
