@@ -85,7 +85,7 @@ The antenna orientation also allows for good ground coverage, which is not typic
 
 .. Tip::
    It is advisable to test the long range performance of the RFD900x by using a separate ground team at a remote location,
-   while another local ground crew can fly and observe the Mozzie directly overhead and be ready to use the RC to take control should the aircraft loose telemetry.
+   while another local ground crew can fly and observe the Mozzie directly overhead and be ready to use the RC to take control should the    aircraft loose telemetry.
    Note: For this to work reliably the FrSky receiver must be installed in the Mozzie.
 
 
@@ -109,12 +109,12 @@ The LED bar shows the current status of the Flight Controller (Pixhawk) as follo
 It is connected via the Pi LED servo connector.
 
 .. Caution::
-  The Front Pi LED servo connector that comes from the Pi Zero header should never be inserted into the Pixhawk or any standard servo connector as it is not compatible
-  and can only be used with the LED strip as specified. Do not use this connector for anything else otherwise the Pi IO might be damaged.
+  The Front Pi LED servo connector that comes from the Pi Zero header should never be inserted into the Pixhawk or any standard servo connector as it is not compatible and can only be used with the LED strip as specified. Do not use this connector for anything else otherwise the Pi IO might be damaged.
 
- * Green is disarmed
- * Red is armed
- * Slow pulsing shows the flight controller heartbeat (which also indicates that the CC has booted correctly and that mavproxy is forwarding mavlink messages from the PXH).
+
+* Green is disarmed
+* Red is armed
+* Slow pulsing shows the flight controller heartbeat (which also indicates that the CC has booted correctly and that mavproxy is forwarding mavlink messages from the PXH).
 
 The LED strip should to be mounted on the top side of the fuselage for easy visibility. It can be mounted using the 3D Printed LED Holder part.
 
