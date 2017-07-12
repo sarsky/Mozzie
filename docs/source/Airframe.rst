@@ -140,7 +140,7 @@ Step 2 - Assembling the Wing
   This will ensure a proper bond with hot glue or glue and the hard, sometimes very smooth and shiny plastic surface.
 
 Then use hot glue on the base and around the servo sides under the tabs to glue it into the foam recess. Try to make sure the servo is straight and flush with the wing surface.
-Remove excess hot glue, preferably before it cools completely. Then insert the cable into the wing seam until flush.
+Remove excess hot glue, preferably before it cools completely. Then, insert the cable into the wing seam until flush.
 To secure the servo cable and connector use a piece of tape over the entire length from the servo to the end of the wing.
 
 Step 3 - Assembling the Tail Wing
