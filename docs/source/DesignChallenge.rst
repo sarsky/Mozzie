@@ -45,5 +45,5 @@ Many teams fail to even get to the event because they cannot achieve their goals
 Creating brand new systems typically requires lots of time, so trying to avoid them should, in theory, give you more time to achieve your priorities.
 Any plan only works if there is enough time to complete it, so having a plan with strict milestones increases the teams' chances of getting to the event, and winning.
 
-A real Mosquito can carry up to 3 times it's own weight in blood and travel up to 50km away, and still land so softly on Joe that he would not even notice.
+A real Mosquito can carry up to 3 times its own weight in blood and travel up to 50km away, and still land so softly on Joe that he would not even notice.
 Since training a real mosquito to hunt for Joe in the challenge is a bit tedious and difficult, the "Mozzie" is our attempt to replicate this feat as closely as we can! ;-)
