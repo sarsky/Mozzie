@@ -9,14 +9,14 @@ The first step to building the Mozzie is to organize and purchase all the parts.
 
 
 .. Tip::
-  The selected components listed here have undergone a series of tests for performance and reliability,
-  however we can not guarantee their individual performance as we do not manufacture or assemble them.
+  The selected components listed here have undergone a series of tests for performance and reliability;
+  however, we cannot guarantee their individual performance as we do not manufacture or assemble them.
 
 
 Purchase List
 ^^^^^^^^^^^^^
 
-.. note::
+.. Note::
   If possible, please use the affiliate product links provided for Banggood and Hobbyking to purchase the components, as that will help support the further development of the Mozzie platform at no extra cost to you.
 
 
@@ -66,7 +66,7 @@ Purchase List
 .. Note::
    All RF equipment, antennas and radios should be thoroughly range tested on each aircraft and base station setup. Please see the respective build sections prior to purchasing for more details.
 
-.. tip::
+.. Tip::
 
    When purchasing:
     * Talon ships from BG in single units via EMS.
@@ -78,9 +78,9 @@ Purchase List
 3D Printed Parts
 ^^^^^^^^^^^^^^^^
 
-3D Printed parts can be printed using a selection of materials, we made our aircraft parts from PLA as this was the easiest and was rigid enough.
-Using ABS, especially on the larger Avionics Enclosure parts might be difficult. Some parts are printed on the side as noted.
-Not every 3D printer is configured the same so some might not print at the correct size to fit the individual electronic components etc, if so, try using the scale feature on the slicer to increase or decrease the size as required.
+3D Printed parts can be printed using a selection of materials. We made our aircraft parts from PLA as this was the easiest and was rigid enough.
+Using ABS, especially on the larger Avionics Enclosure parts, might be difficult. Some parts are printed on the side as noted.
+Not every 3D printer is configured the same so some might not print at the correct size to fit the individual electronic components etc. If so, try using the scale feature on the slicer to increase or decrease the size as required.
 Note that all the prints that connect to each other will require the same scale so they fit together properly once assembled.
 
 .. Tip::
@@ -149,7 +149,7 @@ Quad Arm Parts
 Workspace
 ---------
 
-For the construction of the Mozzie you will need a large well lit table about 1.5m wide and a power plug for soldering iron, hot glue and the optional heat gun.
+For the construction of the Mozzie, you will need a large, well lit table about 1.5m wide and a power plug for soldering iron, hot glue and the optional heat gun.
 
 Tools Required
 --------------
@@ -178,13 +178,13 @@ Safety
 
 The two most dangerous things in building a Mozzie are cuts and burns.
 
-Hobby knives and scissors are very sharp and should be handled with care, try not to use too much force when cutting and cut away from yourself.
+Hobby knives and scissors are very sharp and should be handled with care; try not to use too much force when cutting and cut away from yourself.
 
 The soldering iron and heat gun can cause serious burns that may require treatment by a doctor or hospital.
-Use care to place the hot items on a non-flammable materials, out of the way so they can't be touched or bumped into. A soldering iron holder is recommended.
+Use care to place the hot items on a non-flammable material, out of the way so they can't be touched or bumped into. A soldering iron holder is recommended.
 
 .. Caution::
   Soldering also produces toxic fumes so ensure that a well ventilated room and/or small extraction fan is used.
   They can also present a fire danger so keep them away from flammable items and make sure they are turned off when you leave them.
 
-Remember making the Mozzie should be fun, but getting hurt is not!
+Remember: making the Mozzie should be fun, but getting hurt is not!
