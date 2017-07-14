@@ -4,10 +4,10 @@ Pre-Flight
 == ================================================================================
    **Pre Flight Checklist**
 == ================================================================================
-1  Check wings and quad assemblies for damage and secured
+1  Check wings and quad assemblies for damage and ensure they are secured
 2  Check control linkages and surfaces for defects
 3  Check wiring connections and cables for defects
-4  Check motor spin//dir/mounts and that props are tight with wrench
+4  Check motor spin/dir/mounts and that props are tight with wrench
 5  RC TX booted, TX Bat ok, PXH Mode ok, throttle down?
 6  Check Batteries and install, COG ok, PXH green, pitot clear?
 7  Airspeed, avionics, AHRS/IMU, Compass, GPS 3d lock, Bat, all ok on MP, precal?
@@ -31,8 +31,8 @@ Pre-Flight
 =================== ===================== ================== =========================
 **PXH LED Codes**   **Fault**             **Cause**          **Remedy**
 =================== ===================== ================== =========================
-Green LED	    PXH Booted - GPS Lock Ready to ARM
-Blue LED	    NO GPS Lock	          Bad GPS Health     GPS Satellite' Visible?
+Green LED	          PXH Booted - GPS Lock Ready to ARM
+Blue LED	          NO GPS Lock	          Bad GPS Health     GPS Satellite' Visible?
 Flashing yellow LED Failsafe triggered    Restart PXH	     Check failsafe to trigger
 =================== ===================== ================== =========================
 
