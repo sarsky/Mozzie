@@ -12,7 +12,7 @@ Parts Required
  * 2x 25mm and 2X 40mm M4 screws and 4x M4 locking nuts
 
 .. Note::
-  You will require two complete quad arms for the Mozzie. The front and rear quad arms are mechanically identical, however the ESC motor direction setting needs to match the diagram in the System Check section.
+  You will require two complete quad arms for the Mozzie. The front and rear quad arms are mechanically identical; however, the ESC motor direction setting needs to match the diagram in the System Check section.
 
 
 Step 1 - Soldering the Motor and ESC
@@ -25,14 +25,14 @@ Because of the compact lightweight design of the quad arms some care must be tak
 Their disassembly only requires the removal of the heatshrink and the motor screws.
 
 An important step is to ensure that the length of the three cables between the ESC and the Motor is accurate.
-Making it two short will mean the ESC will be mounted to far out on the quad arm, and making it to long will mean that the cables won't fit under the heatshrink neatly.
+Making it too short will mean the ESC will be mounted too far out on the quad arm, and making it too long will mean that the cables won't fit under the heatshrink neatly.
 
 .. Tip::
-  If preferred one can assemble the quad arm parts first, using steps 2 and 3 below, to use the quad arms as a template to find the correct cable lengths between the ESC and motor.
+  If preferred, one can assemble the quad arm parts first, using steps 2 and 3 below, to use the quad arms as a template to find the correct cable lengths between the ESC and motor.
 
-Solder a male XT30 plug to the red and black cables of the ESC ensuring the correct connector polarity. (Red + / Black -) Don't forget to place the heat shrink on the cable first.
+Solder a male XT30 plug to the red and black cables of the ESC ensuring the correct connector polarity. (Red + / Black -) Don't forget to place the heatshrink on the cable first.
 
-Then cut the three black cables from the ESC 45mm long and the three black cables from the motor to 70mm long.
+Then, cut the three black cables from the ESC 45mm long and the three black cables from the motor to 70mm long.
 Make sure the total length of cable between the ESC and motor (about 105mm when soldered) is long enough when mounted to the arm. Remove about 5mm of insulation from each cable so that these sections overlap.
 Then slide a piece of heatshrink over each cable and solder the ESC cables to the respective motor cable so that the cables do not cross each other.
 This ensures the cables are flat on the bar when they are heatshrinked onto the CF bar when completed.
@@ -51,10 +51,10 @@ Step 2 - Mounting the 3D Printed parts
 
 .. Caution::
   Carbon Fiber dust and particles can be potentially harmful. Do not inhale and use protective gloves in a well ventilated area to cut and work on the CF Bar.
-  The CF bar can also be carefully cut outside with a angle grinder using a metal cutting blade.
+  The CF bar can also be carefully cut outside with an angle grinder using a metal cutting blade.
 
 .. Note::
-  Not all 3D parts come off the printer in perfect condition. Before assembling any 3D printed parts, or gluing any 3D printed parts ensure that the parts all fit together
+  Not all 3D parts come off the printer in perfect condition. Before assembling any 3D printed parts, or glueing any 3D printed parts, ensure that the parts all fit together
   by carefully removing any excess plastic from the print and seeing if they dry fit together first!
 
 
@@ -66,7 +66,7 @@ Use the middle mark to align the middle pieces symmetrically and use the end of 
 .. Tip::
   Make sure the pieces all have the correct orientation and that the 3D printed Motor Mounts are on the correct side of the CF bar.
   The 3D print screw hole layout on the motor mount is determined by where the cables exit the motor so that they can run along the CF bar to the fuselage.
-  Normally only two holes need to be drilled into the CF bar.
+  Normally, only two holes need to be drilled into the CF bar.
 
 
 .. image:: images/Propulsion/QuadArmDry_SM.jpg
@@ -76,22 +76,22 @@ Use the middle mark to align the middle pieces symmetrically and use the end of 
 Then remove the 3D motor mounts and dry test fit the quad motors onto them to make sure they still fit.
 
 .. Warning::
-  Before screwing the motors onto the mounts make sure that the screws used to attach the motor mounts and CF Bar are the correct length! Screws that are too long will damage the motor windings!
-  Screws that are too short will not hold the motors for prolonged use. Please use screws that just make it through the motor's lower aluminum plate (ideally by about 0.5-1mm).
-  It's advisable to use washers to underneath the screw heads to distribute the forces and adjust the length as required.
+  Before screwing the motors onto the mounts, make sure that the screws used to attach the motor mounts and CF Bar are the correct length! Screws that are too long will damage the motor windings!
+  Screws that are too short will not hold the motors for prolonged use. Please use screws that just make it through the motor's lower aluminium plate (ideally by about 0.5-1mm).
+  It's advisable to use washers underneath the screw heads to distribute the forces and adjust the length as required.
 
 Step 3 - Drilling the Motor Mount
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The 3D printed motor mounts are intentionally angled forwards at 7 degrees so that the Mozzie wing has a pitch up angle of attack for better lift generation in hover.
-To make sure the motor is mounted correctly it is necessary to drill the screw holes through the CF bar on an angle, the hole angle should be 90 degrees to the top surface of the 3D motor mount.
+To make sure the motor is mounted correctly, it is necessary to drill the screw holes through the CF bar on an angle. The hole angle should be 90 degrees to the top surface of the 3D motor mount.
 
 .. Tip::
-  Try not to use to much force when the drill is nearly through the CF to avoid it splintering.
+  Try not to use too much force when the drill is nearly through the CF to avoid it splintering.
   Use the left over piece of CF bar to practice drilling.
 
 Slide all the 3D printed parts onto the CF bar as shown in Step 2, into the desired location with the correct orientation and placement.
-Use a sacrificial 3D printed motor mount or timber wedge with the right angle as follows to get the correct drill angle, and then very slowly drill 3mm holes using a drill press if possible.
+Use a sacrificial 3D printed motor mount or timber wedge with the right angle as follows to get the correct drill angle, and then, very slowly, drill 3mm holes using a drill press if possible.
 
 .. image:: images/Propulsion/QuadArmDrill_SM.jpg
         :target: images/Propulsion/QuadArmDrill.jpg
@@ -103,7 +103,7 @@ After cleaning and deburring all the newly drilled holes, carefully screw the mo
 Step 4 - Quad Arm Assembly
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Once all the motor tolerances are checked take off the motors and check all the components before final assembly.
+Once all the motor tolerances are checked, take off the motors and check all the components before final assembly.
 
 .. image:: images/Propulsion/QuadArmAssembly_SM.jpg
         :target: images/Propulsion/QuadArmAssembly.jpg
@@ -128,7 +128,7 @@ Step 5 -  Attaching the Quad Arms to the Fuselage
 
 The final step for the quad arms section is to attach them correctly to the completed Mozzie fuselage.
 
-Place a mark on the fuselage 12mm behind the fuselage hatch. Then dry fit the quad arm on the rear mark and into the front nose crease as per the picture below.
+Place a mark on the fuselage 12mm behind the fuselage hatch. Then dry fit the quad arm on the rear mark and into the front nose crease, as per the picture below.
 Mark the screw holes and rectangular cable penetrations on the 3D printed middle mounts onto the foam fuselage.
 Carefully cut the foam all the way through to the inside of the fuselage so that the cables can be routed internally to the power loom,
 and that the servo cables can be routed to the Pixhawk from the quad arms. Only drill small holes through the foam for the screws so that the screws are not loose in the foam.
