@@ -9,11 +9,11 @@ Any VTOL capable autopilot that can be configured for a quadplane should be able
 
 
 .. Note::
-  For ease of configuration we have a pre-configured parameter file for the Pixhawk that should get the airframe airborne with some basic tuning.
+  For ease of configuration, we have a pre-configured parameter file for the Pixhawk that should get the airframe airborne with some basic tuning.
   The Mozzie parameter file is dependent on a similar propulsion setup and airframe layout, and should always be tuned for each aircraft separately.
 
 .. Tip::
-  If a custom propulsion setup is used we recommend that the quad components have a lift to weight ratio of over 1.7 (so 2.5kg MTOW should have around 4.2kg lift).
+  If a custom propulsion setup is used, we recommend that the quad components have a lift to weight ratio of over 1.7 (so 2.5kg MTOW should have around 4.2kg lift).
 
 
 Ground Control Software GCS
@@ -53,13 +53,13 @@ Mozzie.param that was downloaded above and use the Green "Write Params" to write
 Pixhawk Wiring
 ^^^^^^^^^^^^^^
 
-As described in the Avionics Assembly section the Pixhawk wiring should be connected as per the following schematic:
+As described in the Avionics Assembly section, the Pixhawk wiring should be connected as per the following schematic:
 
 .. image:: images/PXH_Wiring_SM.jpg
         :target: images/PXH_wiring.jpg
 
 .. Tip::
-  Further more detailed wiring information specifically for the Pixhawk can be found on the Ardupilot documentation pages here: `Pixhawk Wiring <http://ardupilot.org/plane/docs/common-pixhawk-wiring-and-quick-start.html>`_
+  Further, more detailed wiring information specifically for the Pixhawk, can be found on the Ardupilot documentation pages here: `Pixhawk Wiring <http://ardupilot.org/plane/docs/common-pixhawk-wiring-and-quick-start.html>`_
 
 
 .. Note::
