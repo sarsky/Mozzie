@@ -91,13 +91,10 @@ Note that all the prints that connect to each other will require the same scale 
 3D Printed Parts List
 ^^^^^^^^^^^^^^^^^^^^^
 
-Please either select the individual STL 3D print files individually from the list
-below or choose to download all the files in a single zip file with this link:
-
-`All 3D parts as a single ZIP File <http://link>`_
+Please either select the individual STL 3D print files individually from the list below or clone the github `repo <https://github.com/sarsky/Mozzie/tree/master/3d>`_.
 
 .. Tip::
-  You can also use the right mouse button to open the context menu when selecting an item and click on  "Save link As"
+  Clicking the 3D part link will open the part in Github where you can use the download button in the top left of the viewer.
 
 Airframe Parts
 ^^^^^^^^^^^^^^^^
@@ -111,9 +108,9 @@ Airframe Parts
 |
 
 **Optional:**
-| `GPS M8 Mount <https://drive.google.com/open?id=0B8Yxg0ggTYf4VkdGZGVRMFZ4Z2M>`_
+| `GPS M8 Mount <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Gps%20Mount%20M8.stl>`_
 | `GPS Cable Conduit Long <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Long%20GPS%20Cable%20Conduit%2080mm.stl>`_
-| `GPS Cable Conduit Short <...>`_
+| `GPS Cable Conduit Short <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Short%20GPS%20Cable%20Conduit%2036mm.stl>`_
 | `E-Stop Holder <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/E-Stop.stl>`_
 | `ESC Air Scoop <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/ESC%20Scoop.stl>`_
 |

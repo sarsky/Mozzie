@@ -27,7 +27,9 @@ Connect the Arduino Nano to the servo plug of the ESC, making sure the polarity 
 Then, select the Com port to which the Arduino programmer is connected and the correct Baud (19600) for the Arduino and click "Connect". Use the "Read Setup" button to read the current ESC setup parameters,
 which should populate the settings values on BLHeli Suite.
 
-Download the `BLHeli_OBC Mozzie FWD  <http://link>`_ and `BLHeli_OBC Mozzie REV <http://link>`_ parameter files to a folder on your PC.
+
+Download the `BLHeli_OBC Mozzie FWD  <https://github.com/sarsky/Mozzie/blob/master/3d/BLHeli_OBC%20Mozzie%20FWD%20-%20ZTWSpPro20AHV%20-%20Rev.%2014.3%20-%20Multi_170701.ini>`_
+and `BLHeli_OBC Mozzie REV <https://github.com/sarsky/Mozzie/blob/master/3d/BLHeli_OBC%20Mozzie%20REV%20-%20ZTWSpPro20AHV%20-%20Rev.%2014.3%20-%20Multi_170701.ini>`_ parameter files to a folder on your PC.
 
 Then, under the ESC Setup menu item, select "Read Setup from ini file" and choose the correct ini file for the motor ESC you are programming.
 
