@@ -28,8 +28,8 @@ Then, select the Com port to which the Arduino programmer is connected and the c
 which should populate the settings values on BLHeli Suite.
 
 
-Download the `BLHeli_OBC Mozzie FWD  <https://github.com/sarsky/Mozzie/blob/master/3d/BLHeli_OBC%20Mozzie%20FWD%20-%20ZTWSpPro20AHV%20-%20Rev.%2014.3%20-%20Multi_170701.ini>`_
-and `BLHeli_OBC Mozzie REV <https://github.com/sarsky/Mozzie/blob/master/3d/BLHeli_OBC%20Mozzie%20REV%20-%20ZTWSpPro20AHV%20-%20Rev.%2014.3%20-%20Multi_170701.ini>`_ parameter files to a folder on your PC.
+Download the `BLHeli_OBC Mozzie FWD  <https://raw.githubusercontent.com/sarsky/Mozzie/master/3d/BLHeli_OBC%20Mozzie%20FWD%20-%20ZTWSpPro20AHV%20-%20Rev.%2014.3%20-%20Multi_170701.ini>`_
+and `BLHeli_OBC Mozzie REV <https://raw.githubusercontent.com/sarsky/Mozzie/master/3d/BLHeli_OBC%20Mozzie%20REV%20-%20ZTWSpPro20AHV%20-%20Rev.%2014.3%20-%20Multi_170701.ini>`_ parameter files to a folder on your PC using a right click and "save link as".
 
 Then, under the ESC Setup menu item, select "Read Setup from ini file" and choose the correct ini file for the motor ESC you are programming.
 

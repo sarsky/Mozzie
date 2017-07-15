@@ -104,7 +104,7 @@ Airframe Parts
 | `Talon Box Right Side <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Talon%20Box%20Wall%20R%20(Vial%20near%20CF).stl>`_
 | `Front Skid <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Front%20Skid.stl>`_
 | `Tail Skid <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Tail%20skid.stl>`_
-| `Forward Motor Mount <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Long%20GPS%20Cable%20Conduit%2080mm.stl>`_
+| `Forward Motor Mount <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Mount%20Motor%20v1.stl>`_
 |
 
 **Optional:**
@@ -125,11 +125,11 @@ Avionics Parts
 | `Avionics Enclosure Rear Mount <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Rear%20Mount.stl>`_
 | `Avionics Enclosure Screw Washers https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/Screw%20washer.stl>`_
 | `AE Camera Servo Mount PiCam <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Camera%20Servo%20Mount.stl>`_
-| `Camera PiCam Holder <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/Camera%20PiCam%20holder.stl>`_
+| `Camera PiCam Holder <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Camera%20Case.stl>`_
 |
 
 **Optional:**
-| `Airspeed Sensor Mount (V4.1) <http://www.thingiverse.com/thing:169317>`_
+| `Airspeed Sensor Mount (v4.1) <http://www.thingiverse.com/thing:169317>`_
 | `Arm Switch Mount <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/Arm%20Switch.stl>`_
 | `3G Modem E3351 <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/3G%20Modem.stl>`_
 |
