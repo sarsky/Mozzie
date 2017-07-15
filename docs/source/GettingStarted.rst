@@ -123,7 +123,7 @@ Avionics Parts
 | `Avionics Enclosure Plate (center) <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Plate.stl>`_
 | `Avionics Enclosure Front Mount <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Front%20Mount.stl>`_
 | `Avionics Enclosure Rear Mount <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Rear%20Mount.stl>`_
-| `Avionics Enclosure Screw Washers https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/Screw%20washer.stl>`_
+| `Avionics Enclosure Screw Washers <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/Screw%20washer.stl>`_
 | `AE Camera Servo Mount PiCam <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Camera%20Servo%20Mount.stl>`_
 | `Camera PiCam Holder <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/Camera%20PiCam%20holder.stl>`_
 |
