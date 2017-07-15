@@ -2,7 +2,7 @@ Getting Started
 ================
 
 Complete Parts List
--------------------
+-----------------------
 
 
 The first step to building the Mozzie is to organize and purchase all the parts.
@@ -14,7 +14,7 @@ The first step to building the Mozzie is to organize and purchase all the parts.
 
 
 Purchase List
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 
 .. note::
   If possible, and if cost effective, please use the affiliate product links provided for Banggood to purchase those components, as that will help support the further development of the Mozzie platform at no extra cost to you.
@@ -102,48 +102,49 @@ below or choose to download all the files in a single zip file with this link:
 Airframe Parts
 ^^^^^^^^^^^^^^^^
 
-| `Talon Box Bridge (Vial holder) <https://drive.google.com/open?id=0B8Yxg0ggTYf4WnRnT2loN3BnSHc>`_
-| `Talon Box Left Side <https://drive.google.com/open?id=0B8Yxg0ggTYf4dVNCY1ZMS0ticEE>`_
-| `Talon Box Right Side <https://drive.google.com/open?id=0B8Yxg0ggTYf4cUF4bEpHTDVyNkU>`_
-| `Front Skid <https://drive.google.com/open?id=0B8Yxg0ggTYf4VkdGZGVRMFZ4Z2M>`_
-| `Tail Skid <https://drive.google.com/open?id=0B8Yxg0ggTYf4dE1kd3YtT0ZTdWM>`_
-| `Forward Motor Mount <https://drive.google.com/open?id=0B8Yxg0ggTYf4YjhYZGdhRDNyTkU>`_
+| `Talon Box Bridge (Vial holder) <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Talon%20Box%20Cross%20Section.stl>`_
+| `Talon Box Left Side <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Talon%20Box%20Wall%20L%20(Vial%20near%20CF).stl>`_
+| `Talon Box Right Side <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Talon%20Box%20Wall%20R%20(Vial%20near%20CF).stl>`_
+| `Front Skid <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Front%20Skid.stl>`_
+| `Tail Skid <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Tail%20skid.stl>`_
+| `Forward Motor Mount <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Long%20GPS%20Cable%20Conduit%2080mm.stl>`_
 |
 
 **Optional:**
 | `GPS M8 Mount <https://drive.google.com/open?id=0B8Yxg0ggTYf4VkdGZGVRMFZ4Z2M>`_
-| `GPS M8 Mount Cable Conduit <https://drive.google.com/open?id=0B8Yxg0ggTYf4OHEzYlEyQk53TDg>`_
-| `E-Stop Holder <https://drive.google.com/open?id=0B8Yxg0ggTYf4Tk16djBqNXlrZkk>`_
-| `ESC Air Scoop <https://drive.google.com/open?id=0B8Yxg0ggTYf4WTdxVk5sZmFacFU>`_
+| `GPS Cable Conduit Long <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/Long%20GPS%20Cable%20Conduit%2080mm.stl>`_
+| `GPS Cable Conduit Short <...>`_
+| `E-Stop Holder <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/E-Stop.stl>`_
+| `ESC Air Scoop <https://github.com/sarsky/Mozzie/blob/master/3d/Airframe/ESC%20Scoop.stl>`_
 |
 
 Avionics Parts
 ^^^^^^^^^^^^^^^^
 
-| `Avionics Enclosure Pi (bottom) <https://drive.google.com/open?id=0B8Yxg0ggTYf4OGVLUHFuRzZWRXM>`_
-| `Avionics Enclosure RFD/Air (top) <https://drive.google.com/open?id=0B8Yxg0ggTYf4S0NsaXlOQ1otQ0E>`_
-| `Avionics Enclosure Plate (center) <https://drive.google.com/open?id=0B8Yxg0ggTYf4Y0cwbDVKdzBGa1k>`_
-| `Avionics Enclosure Front Mount <https://drive.google.com/open?id=0B8Yxg0ggTYf4YmRtTjJsUkFkems>`_
-| `Avionics Enclosure Rear Mount <https://drive.google.com/open?id=0B8Yxg0ggTYf4RU10T1l3M3p3RDA>`_
-| `Avionics Enclosure Screw Washers <https://drive.google.com/open?id=0B8Yxg0ggTYf4UFBGcmNrYUdjc2M>`_
-| `Pi Camera Servo Mount <https://drive.google.com/open?id=0B8Yxg0ggTYf4WXRZZmg2Zzk0V0U>`_
-| `Pi Camera Holder <https://drive.google.com/open?id=0B8Yxg0ggTYf4cm9UNGtaMjZaRlk>`_
+| `Avionics Enclosure Pi (bottom) <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Pi.stl>`_
+| `Avionics Enclosure RFD/Air (top) <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Top%20Box.stl>`_
+| `Avionics Enclosure Plate (center) <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Plate.stl>`_
+| `Avionics Enclosure Front Mount <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Front%20Mount.stl>`_
+| `Avionics Enclosure Rear Mount <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Rear%20Mount.stl>`_
+| `Avionics Enclosure Screw Washers https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/Screw%20washer.stl>`_
+| `AE Camera Servo Mount PiCam <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/AE%20Camera%20Servo%20Mount.stl>`_
+| `Camera PiCam Holder <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/Camera%20PiCam%20holder.stl>`_
 |
 
 **Optional:**
-| `Airspeed Sensor Mount <http://www.thingiverse.com/thing:169317>`_
-| `Arm Switch Mount <https://drive.google.com/open?id=0B8Yxg0ggTYf4bnRTSU9xNzZ1MjA>`_
-| `3G Modem E3351 <https://drive.google.com/open?id=0B8Yxg0ggTYf4dEt3MW4wMVpNekU>`_
+| `Airspeed Sensor Mount (V4.1) <http://www.thingiverse.com/thing:169317>`_
+| `Arm Switch Mount <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/Arm%20Switch.stl>`_
+| `3G Modem E3351 <https://github.com/sarsky/Mozzie/blob/master/3d/Avionics/3G%20Modem.stl>`_
 |
 
 Quad Arm Parts
 ^^^^^^^^^^^^^^^^
 
-| `CF Motor Mount Left <https://drive.google.com/open?id=0B8Yxg0ggTYf4WHBIck9hcE5ONWs>`_
-| `CF Motor Mount Right <https://drive.google.com/open?id=0B8Yxg0ggTYf4ZUJBQ1ZHNmRGUkE>`_
-| `CF Middle Left <https://drive.google.com/open?id=0B8Yxg0ggTYf4MmVEWl84d3NZMm8>`_
-| `CF Middle Right <https://drive.google.com/open?id=0B8Yxg0ggTYf4dzNUTl9adWd3YjA>`_
-| `Undermount 2x <https://drive.google.com/open?id=0B8Yxg0ggTYf4Zm56X1JhTFJ3MFk>`_
+| `CF Motor Mount Left <https://github.com/sarsky/Mozzie/blob/master/3d/QuadArm/CF%20Motor%20Mount%20LEFT%20Aero%20v4.stl>`_
+| `CF Motor Mount Right <https://github.com/sarsky/Mozzie/blob/master/3d/QuadArm/CF%20Motor%20Mount%20Right%20Aero%20v4.stl>`_
+| `CF Middle Left <https://github.com/sarsky/Mozzie/blob/master/3d/QuadArm/CF%20Mid%20Mount%20L.stl>`_
+| `CF Middle Right <https://github.com/sarsky/Mozzie/blob/master/3d/QuadArm/CF%20Mid%20Mount%20R.stl>`_
+| `Undermount 2x <https://github.com/sarsky/Mozzie/blob/master/3d/QuadArm/Undermount%20back%20V7.stl>`_
 |
 
 
