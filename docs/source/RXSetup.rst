@@ -20,12 +20,12 @@ Specifications
 | Operating Current: 1OOmA@5V
 | Firmware Upgradeable
 | Compatibility: FrSky X-series Module & X9D & X9DP & X9E & X12S in D16 mode
-| (XSR does  not work with D-series Module)
+| (XSR does not work with D-series Module)
 |
 
 **Features:**
 
-  •	Smart Port enabled, realizing two-way full duplex transmission.
+  •	Smart Port enabled, realizing two-way full duplex transmission
   •	S-BUS output
   •	CPPM output
 
@@ -33,11 +33,11 @@ Specifications
 Binding Procedure
 ...................
 
-Binding is the process of uniquely associating a particular receiver to a transmitter module. A RC transmitter can be bound to multiple receivers (but can't be used simultaneously). A receiver can only be bound to one transmitter module at a time.
+Binding is the process of uniquely associating a particular receiver to a transmitter module. An RC transmitter can be bound to multiple receivers (but can't be used simultaneously). A receiver can only be bound to one transmitter module at a time.
 
 The binding procedure is as follows.
 
-  1.  Turn on the transmitter while holding the F/S button on the module or by selecting bind in the on screen menu (please refer to the module instruction manual for switch positions). Release the button. The RED LED on the Module will flash, or the Transmitter will beep, indicating the transmitter s ready to bind to the receiver.
+  1.  Turn on the transmitter while holding the F/S button on the module or by selecting bind in the on screen menu (please refer to the module instruction manual for switch positions). Release the button. The RED LED on the Module will flash, or the transmitter will beep, indicating the transmitter is ready to bind to the receiver.
   2.  Connect battery to the XSR receiver while holding the F/5 button on the receiver. The LED on the receiver will flash, indicating the binding process is completed.
   3.  Turn off both the transmitter and the receiver.
   4.  Turn on the transmitter and connect the battery. The GREEN LED on the receiver indicates the receiver is receiving commands from the transmitter and is bound.
@@ -64,20 +64,20 @@ A pre-flight range check should be done before each flying session. Reflections 
 Failsafe
 ..........
 
-.. note::
-  For the competition flight it is advisable to turn off the RC failsafes completely and rely on the RFD900x and Pixhawk setup only to deal with RC failures or loss of signal. For flight testing outside of the competition it is recommended to use the RC failsafe as it can add an extra layer of protection if it is configured correctly.
-  If failsafe is not set on the Pixhawk and RC the failsafe default will hold the last position before signal was lost. In this case, there is a risk your model will fly away, crash or cause injury. Setting a geofence is also advisable to avoid fly aways.
+.. Note::
+  For the competition flight it is advisable to turn off the RC failsafes completely and rely on the RFD900x and Pixhawk setup only to deal with RC failures or loss of signal. For flight testing outside of the competition, it is recommended to use the RC failsafe, as it can add an extra layer of protection if it is configured correctly.
+  If failsafe is not set on the Pixhawk and RC, the failsafe default will hold the last position before signal was lost. In this case, there is a risk your model will fly away, crash or cause injury. Setting a geofence is also advisable to avoid fly aways.
 
-Failsafe is a useful feature in which all controls move to a preset position whenever the control signal is lost for a period of time. XSR supports failsafe function for all channels. Follow the steps below to sat failsafe positons for each channel:
+Failsafe is a useful feature in which all controls move to a preset position whenever the control signal is lost for a period of time. XSR supports failsafe function for all channels. Follow the steps below to set failsafe positons for each channel:
 
- 1.	Bind the receiver first and turn on both the transmitter and the receiver;
- 2.	Move the controls to the desired failsafe position for all channels;
+ 1.	Bind the receiver first and turn on both the transmitter and the receiver.
+ 2.	Move the controls to the desired failsafe position for all channels.
  3. Briefly Press the F/5 button on the receiver (less than 1second). The Green LED will flash twice, indicating the failsafe position has been set in the receiver.
 
 To disable the failsafe function, re-bind the receiver.
 
-.. tip::
-  Optionally you can set the RX failsafe to no pulses when it loses signal to the transmitter:
+.. Tip::
+  Optionally, you can set the RX failsafe to no pulses when it loses signal to the transmitter:
   Turn off the transmitter, power on the receiver and then briefly press the F/S button on the receiver.
 
 FrSky Telemetry
