@@ -11,7 +11,7 @@ This is a complete build instruction wiki to assemble a "Mozzie" quadplane ident
 Our intention is that the Mozzie can be used as a base platform to develop systems and technology for UAV challenges, or even as the actual platform being used in a UAV challenge.
 This is also our attempt to give back to the Ardupilot and other UAV open source communities, as a thank you for all their efforts and work, which has made the Mozzie platform possible in the first place.
 
-Through the years that we have been involved in the UAV Challenge we found that many of the teams that attempted the challenge were often challenged by only having a limited amount of time,
+Through the years that we have been involved in the UAV Challenge, we found that many of the teams that attempted it were often challenged by only having a limited amount of time,
 funds and experience with existing systems, despite having good ideas in overcoming the challenge hurdles themselves. Operating large, complex and expensive airframe systems can often result in
 teams running out of time, funds and team resources before they can even participate in the event.
 
@@ -32,7 +32,7 @@ The 2018 Challenge is to fly a "robotic" autopilot controlled aircraft up to 30k
 to collect a 25g blood sample vial and return it intact to base.
 
 The main "challenges" to complete the mission objectives are:
- * Overcome the range required with an aircraft of up to a total of 60km, including landing on the remote site and return inside of 60 minutes
+ * Overcome the range required with an aircraft of up to a total of 60km, including landing on the remote site and return, inside of 60 minutes
  * Be able to land at the remote site that is cluttered and does not allow for low glide slope landings (10m radius) and
    so should be able to land and takeoff vertically at the remote site to receive maximum points for accuracy on target
  * Must maintain a continuous communications link between the aircraft and base (even whilst on the ground at the remote site)
