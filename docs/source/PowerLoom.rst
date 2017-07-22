@@ -34,6 +34,8 @@ Do this for the red and black cables.
 Then add heatshrink to the cables and proceed with soldering the XT60 connectors on their respective cable ends, ensuring that the polarities of the connectors and cable colors match the diagram.
 
 Finally, attach the main 14AWG cable along the bottom right side of the fuselage with cable clips making sure the front and rear XT30 and XT60 connectors reach their respective ESC connectors.
+Make sure the front ESC XT30 plugs are facing forwards (that's the two long cables that are directly connected to the middle of the loom and fork at the XT30's at the other end) and the XT60 for the forward motor is in the rear of the fuselage.
+Connect the Pixhawk Power Module and Current sensor between the Rear power loom XT60 and the Forward Motor ESC XT60 in the rear of the fuselage.
 
 .. DANGER::
    When working on the airframe, always remove the key from the airframe to disable the propulsion and make it safe!
