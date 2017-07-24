@@ -17,7 +17,7 @@ Purchase List
 ^^^^^^^^^^^^^^^^
 
 .. note::
-  If possible, and if cost effective, please use the affiliate product links provided for Banggood to purchase those components, as that will help support the further development of the Mozzie platform at no extra cost to you.
+  If you would like to support the Mozzie development, and if it is cost effective, please use the affiliate product links provided for Banggood to purchase those components, as that will help support the further development of the Mozzie platform at no extra cost to you.
   If you wish to support us with any other purchase you make through our affiliate store you can use this `Banggood <https://www.banggood.com/?p=U4150312300081201707>`_ link
   or alternatively if you don't won't to use the affiliate links feel free to remove 20 digit number on the end of the BG links.
 
@@ -40,6 +40,7 @@ Purchase List
 |                     40A ESC (with Brake)                   50g         1
 |                     Prop Aeronaut 10x8                                 1     `PerthRC <http://www.perthrc.com.au/folding-prop-10x8.html>`__
 |                     Spinner Bar Aeronaut                               1     `PerthRC <http://www.perthrc.com.au/spinner-bar-42mm-0-degrees.html>`__
+|                     HQProp GlassNylon 6x3.5 2xCW+2xCCW                 4     `Rotorgeeks <http://rotorgeeks.com/index.php?route=product/product&manufacturer_id=11&product_id=325>`_
 **Electronics**       Battery MultiStar LiHV 4S 10Ah        794g         1     `HobbyKing <https://hobbyking.com/en_us/multistar-lihv-high-capacity-4s-10000mah-multi-rotor-lipo-pack.html>`__
 |                     UBEC ZTW 6A                           12g          2     `Banggood <http://www.banggood.com/ZTW-10A-BEC-UBEC-Universal-Battery-Eliminator-Circuit-For-RC-Models-p-989402.html?p=U4150312300081201707>`__
 **Power Loom**        XT60 Connectors (5 pairs)                          1     `Banggood <http://www.banggood.com/5X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-916559.html?p=U4150312300081201707>`__
